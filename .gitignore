@@ -1,0 +1,25 @@
+# .NET
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local tooling and secrets
+.env
+.env.*
+!.env.example
+artifacts/
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Repository-local .NET SDK installed by scripts/bootstrap-dotnet.sh
+.tools/dotnet/

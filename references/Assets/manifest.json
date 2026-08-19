@@ -1,0 +1,1131 @@
+{
+  "purpose": "Reference-only extracted period UI assets; excludes user/group/item/place/game thumbnails and Wayback/archive interface assets.",
+  "assets": [
+    {
+      "file": "badges/354f0d0207ef-TurboBuildersClub-75x75.png",
+      "category": "badges",
+      "sha256": "354f0d0207efb6cee61598ad8bb31054d3470764b4d8ab9f2d477b2b36768a70",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401233153im_/http://www.roblox.com/images/Badges/TurboBuildersClub-75x75.png"
+      ],
+      "sourceCaptures": [
+        "zowee3840 - ROBLOX"
+      ]
+    },
+    {
+      "file": "badges/4a7a4259ebe5-Friendship-75x75.png",
+      "category": "badges",
+      "sha256": "4a7a4259ebe517c97e7a54ef5e899d12cdd9735290543d540ffb6d10a4028fba",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401233153im_/http://www.roblox.com/images/Badges/Friendship-75x75.png?v=2"
+      ],
+      "sourceCaptures": [
+        "zowee3840 - ROBLOX"
+      ]
+    },
+    {
+      "file": "badges/4dffbd80f2bc-Veteran-75x75.png",
+      "category": "badges",
+      "sha256": "4dffbd80f2bccf85da429eea497cec353bb375a22da1ef3d2a5df06f9c9a0879",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401233153im_/http://www.roblox.com/images/Badges/Veteran-75x75.png?v=2",
+        "https://web.archive.org/web/20120401233203im_/http://www.roblox.com/images/Badges/Veteran-75x75.png?v=2",
+        "https://web.archive.org/web/20120402190226im_/http://www.roblox.com/images/Badges/Veteran-75x75.png?v=2"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX",
+        "thecaptain97 - ROBLOX",
+        "zowee3840 - ROBLOX"
+      ]
+    },
+    {
+      "file": "badges/5dbcd9079176-Inviter-75x75.png",
+      "category": "badges",
+      "sha256": "5dbcd907917664d535cfd5b5ece6ebf7928e6d18706aeac5560a8850ba3f04f4",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401233153im_/http://www.roblox.com/images/Badges/Inviter-75x75.png?v=2"
+      ],
+      "sourceCaptures": [
+        "zowee3840 - ROBLOX"
+      ]
+    },
+    {
+      "file": "badges/b808da61d39d-CombatInitiation-75x75.png",
+      "category": "badges",
+      "sha256": "b808da61d39d9ae03d9a898171faf9d31b549bf1f8f03684721f1e6730b12030",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401233153im_/http://www.roblox.com/images/Badges/CombatInitiation-75x75.png?v=2",
+        "https://web.archive.org/web/20120402190226im_/http://www.roblox.com/images/Badges/CombatInitiation-75x75.png?v=2"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX",
+        "zowee3840 - ROBLOX"
+      ]
+    },
+    {
+      "file": "badges/bc61ffc1fb59-Warrior-75x75.png",
+      "category": "badges",
+      "sha256": "bc61ffc1fb598c0ba87a0b71b80d6a0fe5167da4cc58c03fac1ebe942e828682",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401233153im_/http://www.roblox.com/images/Badges/Warrior-75x75.png?v=2",
+        "https://web.archive.org/web/20120402190226im_/http://www.roblox.com/images/Badges/Warrior-75x75.png?v=2"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX",
+        "zowee3840 - ROBLOX"
+      ]
+    },
+    {
+      "file": "membership/57fe89a3b362-overlay_bcOnly.png",
+      "category": "membership",
+      "sha256": "57fe89a3b3629fc50dd2d02b799ea3d773e99e926c3c9341de01e5f04e802c49",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401125159im_/http://www.roblox.com/images/icons/overlay_bcOnly.png",
+        "https://web.archive.org/web/20120401213104im_/http://www.roblox.com/images/icons/overlay_bcOnly.png",
+        "https://web.archive.org/web/20120401233244im_/http://www.roblox.com/images/icons/overlay_bcOnly.png",
+        "https://web.archive.org/web/20120402203916im_/http://www.roblox.com/images/icons/overlay_bcOnly.png"
+      ],
+      "sourceCaptures": [
+        "Get Bright Violet,Red,Blueish Green for100 robux!, a Free Game by BrE24 - ROBLOX (updated 3/24/2012 8:03:11 AM)",
+        "Ride A Hot Air Balloon Up To VIP (BC & TBC & OBC), a Free Game by madyx200 - ROBLOX (updated 4/2/2012 3:30:39 PM)",
+        "Sandstorm, a Badge by ch33zgr8er - ROBLOX (updated 12/24/2011 3:07:38 PM)",
+        "johnnydepp121 - ROBLOX"
+      ]
+    },
+    {
+      "file": "membership/5b5cd374b009-overlay_obcOnly.png",
+      "category": "membership",
+      "sha256": "5b5cd374b009c5373a6562bacf8625e8c2a08ed165513c0e50cd3c49b9f806ce",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401233153im_/http://www.roblox.com/images/icons/overlay_obcOnly.png",
+        "https://web.archive.org/web/20120401233203im_/http://www.roblox.com/images/icons/overlay_obcOnly.png"
+      ],
+      "sourceCaptures": [
+        "thecaptain97 - ROBLOX",
+        "zowee3840 - ROBLOX"
+      ]
+    },
+    {
+      "file": "membership/6fd028b6d8ba-overlay_obcOnly.png",
+      "category": "membership",
+      "sha256": "6fd028b6d8bab6c34e6e5fcc6fc45b8addc8a2d619f6d7d93d68de93a638370c",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120926112000im_/http://www.roblox.com/images/icons/overlay_obcOnly.png",
+        "https://web.archive.org/web/20121212183659im_/http://www.roblox.com/images/icons/overlay_obcOnly.png"
+      ],
+      "sourceCaptures": [
+        "Nice Dress, a Pants by LiveBuilder - ROBLOX (updated 4/21/2012 4:56:01 PM)",
+        "boringawsome123 - ROBLOX"
+      ]
+    },
+    {
+      "file": "membership/7447609b2218-overlay_obc_small.png",
+      "category": "membership",
+      "sha256": "7447609b2218c246f1bcd4066a35a1d94fe359e84645427f99c874a755bf5a15",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20121023024901im_/http://www.roblox.com/images/icons/overlay_obc_small.png"
+      ],
+      "sourceCaptures": [
+        "Neon Trihawk, a Hat by ROBLOX - ROBLOX (updated 12/30/2011 11:43:47 AM)"
+      ]
+    },
+    {
+      "file": "membership/75a376641765-overlay_bcOnly_big.png",
+      "category": "membership",
+      "sha256": "75a376641765eb5725fb4eef1e02ac79b468226d51db19efa83cbf1926318553",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401233244im_/http://www.roblox.com/images/overlay_bcOnly_big.png",
+        "https://web.archive.org/web/20120402203916im_/http://www.roblox.com/images/overlay_bcOnly_big.png"
+      ],
+      "sourceCaptures": [
+        "Get Bright Violet,Red,Blueish Green for100 robux!, a Free Game by BrE24 - ROBLOX (updated 3/24/2012 8:03:11 AM)",
+        "Ride A Hot Air Balloon Up To VIP (BC & TBC & OBC), a Free Game by madyx200 - ROBLOX (updated 4/2/2012 3:30:39 PM)"
+      ]
+    },
+    {
+      "file": "membership/761ce27fc88f-overlay_tbcOnly.png",
+      "category": "membership",
+      "sha256": "761ce27fc88f0f6d8b77692a173450aca3860b197d3d73ece1b4a223102d02ab",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401125159im_/http://www.roblox.com/images/icons/overlay_tbcOnly.png",
+        "https://web.archive.org/web/20120401233153im_/http://www.roblox.com/images/icons/overlay_tbcOnly.png",
+        "https://web.archive.org/web/20120402190226im_/http://www.roblox.com/images/icons/overlay_tbcOnly.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX",
+        "johnnydepp121 - ROBLOX",
+        "zowee3840 - ROBLOX"
+      ]
+    },
+    {
+      "file": "membership/806e439d8df4-overlay_mega_big.png",
+      "category": "membership",
+      "sha256": "806e439d8df4bf6b66063436d9e20b32f6fdec1f299fe7dc2bbf14b0e4955c1e",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402203916im_/http://www.roblox.com/images/icons/overlay_mega_big.png"
+      ],
+      "sourceCaptures": [
+        "Ride A Hot Air Balloon Up To VIP (BC & TBC & OBC), a Free Game by madyx200 - ROBLOX (updated 4/2/2012 3:30:39 PM)"
+      ]
+    },
+    {
+      "file": "membership/bf1fcb8459ef-overlay_bcOnly.png",
+      "category": "membership",
+      "sha256": "bf1fcb8459effb629974ff9d4b28800bb7104418d57192154dd6046c29b22090",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20121212183659im_/http://www.roblox.com/images/icons/overlay_bcOnly.png",
+        "https://web.archive.org/web/20130227190910im_/http://www.roblox.com/images/icons/overlay_bcOnly.png"
+      ],
+      "sourceCaptures": [
+        "Project Efteling [3], a Free Game by erikwesley96 - ROBLOX (updated 9/11/2012 12:29:32 PM)",
+        "boringawsome123 - ROBLOX"
+      ]
+    },
+    {
+      "file": "membership/cdc25369b4f7-overlay_bc_small.png",
+      "category": "membership",
+      "sha256": "cdc25369b4f71f9078d695509206835432e08bf1726c82d9c89e62eaad47d8cd",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20121023024901im_/http://www.roblox.com/images/icons/overlay_bc_small.png",
+        "https://web.archive.org/web/20130528020353im_/http://www.roblox.com/images/icons/overlay_bc_small.png"
+      ],
+      "sourceCaptures": [
+        "Neon Trihawk, a Hat by ROBLOX - ROBLOX (updated 12/30/2011 11:43:47 AM)",
+        "ROBLOX.com"
+      ]
+    },
+    {
+      "file": "membership/ea46a6fc3bbc-overlay_tbcOnly.png",
+      "category": "membership",
+      "sha256": "ea46a6fc3bbcf49a8312909447e4633555048e4363494052d7a2c09dd0a25507",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20121009171729im_/http://www.roblox.com/images/icons/overlay_tbcOnly.png",
+        "https://web.archive.org/web/20121017081617im_/http://www.roblox.com/images/icons/overlay_tbcOnly.png",
+        "https://web.archive.org/web/20121023024901im_/http://www.roblox.com/images/icons/overlay_tbcOnly.png"
+      ],
+      "sourceCaptures": [
+        "An X., a Hat by ROBLOX - ROBLOX (updated 12/17/2007 3:32:30 PM)",
+        "Neon Trihawk, a Hat by ROBLOX - ROBLOX (updated 12/30/2011 11:43:47 AM)",
+        "Red Horns, a Hat by ROBLOX - ROBLOX (updated 2/7/2010 5:59:56 AM)"
+      ]
+    },
+    {
+      "file": "navigation/360f2faa7103-GenreIconsSprite.png",
+      "category": "navigation",
+      "sha256": "360f2faa71035218068caa878cabfafb6d733c909e437ce61a38bd252e605bc5",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401082752im_/http://www.roblox.com/images/GenreIcons/GenreIconsSprite.png",
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/GenreIcons/GenreIconsSprite.png"
+      ],
+      "sourceCaptures": [
+        "Get Bright Violet,Red,Blueish Green for100 robux!, a Free Game by BrE24 - ROBLOX (updated 3/24/2012 8:03:11 AM)",
+        "Red Ruby Faberge Egg, a Badge by Twala - ROBLOX (updated 5/22/2011 1:55:01 AM)",
+        "Ride A Hot Air Balloon Up To VIP (BC & TBC & OBC), a Free Game by madyx200 - ROBLOX (updated 4/2/2012 3:30:39 PM)",
+        "The best Vip door for Igortv123, a Model by Drantini - ROBLOX (updated 8/14/2008 4:32:32 PM)",
+        "Ultimate Team Freeze Tag 2.0 APRIL FOOLZ, a Free Game by idontkno - ROBLOX (updated 4/1/2012 1:17:07 PM)",
+        "face, a Decal by jeffdunham - ROBLOX (updated 7/17/2008 10:39:28 PM)"
+      ]
+    },
+    {
+      "file": "navigation/406b9e33b601-topNav_rss.png",
+      "category": "navigation",
+      "sha256": "406b9e33b6016a22af7d0217ad261e931fd2f092f9d5924e13900deedea931b2",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401082752im_/http://www.roblox.com/images/cssspecific/rbx2/topNav_rss.png",
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/cssspecific/rbx2/topNav_rss.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX",
+        "Free Games at ROBLOX.com",
+        "Get Bright Violet,Red,Blueish Green for100 robux!, a Free Game by BrE24 - ROBLOX (updated 3/24/2012 8:03:11 AM)",
+        "Red Ruby Faberge Egg, a Badge by Twala - ROBLOX (updated 5/22/2011 1:55:01 AM)",
+        "Ride A Hot Air Balloon Up To VIP (BC & TBC & OBC), a Free Game by madyx200 - ROBLOX (updated 4/2/2012 3:30:39 PM)",
+        "Sandstorm, a Badge by ch33zgr8er - ROBLOX (updated 12/24/2011 3:07:38 PM)",
+        "The best Vip door for Igortv123, a Model by Drantini - ROBLOX (updated 8/14/2008 4:32:32 PM)",
+        "Ultimate Team Freeze Tag 2.0 APRIL FOOLZ, a Free Game by idontkno - ROBLOX (updated 4/1/2012 1:17:07 PM)",
+        "face, a Decal by jeffdunham - ROBLOX (updated 7/17/2008 10:39:28 PM)",
+        "johnnydepp121 - ROBLOX",
+        "zowee3840 - ROBLOX"
+      ]
+    },
+    {
+      "file": "navigation/41067732871d-topNav_arrow_white.png",
+      "category": "navigation",
+      "sha256": "41067732871d4d8325c1c09adf65fd77c59b51e4b980becc53b978c5476b14ca",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401125159im_/http://www.roblox.com/images/topNav_arrow_white.png",
+        "https://web.archive.org/web/20120401154933im_/http://www.roblox.com/images/topNav_arrow_white.png",
+        "https://web.archive.org/web/20120401213104im_/http://www.roblox.com/images/topNav_arrow_white.png",
+        "https://web.archive.org/web/20120401214542im_/http://www.roblox.com/images/topNav_arrow_white.png",
+        "https://web.archive.org/web/20120401233133im_/http://www.roblox.com/images/topNav_arrow_white.png",
+        "https://web.archive.org/web/20120401233153im_/http://www.roblox.com/images/topNav_arrow_white.png",
+        "https://web.archive.org/web/20120401233203im_/http://www.roblox.com/images/topNav_arrow_white.png",
+        "https://web.archive.org/web/20120401233244im_/http://www.roblox.com/images/topNav_arrow_white.png",
+        "https://web.archive.org/web/20120402120933im_/http://www.roblox.com/images/topNav_arrow_white.png",
+        "https://web.archive.org/web/20120402190226im_/http://www.roblox.com/images/topNav_arrow_white.png",
+        "https://web.archive.org/web/20120402203916im_/http://www.roblox.com/images/topNav_arrow_white.png",
+        "https://web.archive.org/web/20120402223501im_/http://www.roblox.com/images/topNav_arrow_white.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX",
+        "Free Games at ROBLOX.com",
+        "Get Bright Violet,Red,Blueish Green for100 robux!, a Free Game by BrE24 - ROBLOX (updated 3/24/2012 8:03:11 AM)",
+        "Red Ruby Faberge Egg, a Badge by Twala - ROBLOX (updated 5/22/2011 1:55:01 AM)",
+        "Ride A Hot Air Balloon Up To VIP (BC & TBC & OBC), a Free Game by madyx200 - ROBLOX (updated 4/2/2012 3:30:39 PM)",
+        "Sandstorm, a Badge by ch33zgr8er - ROBLOX (updated 12/24/2011 3:07:38 PM)",
+        "The best Vip door for Igortv123, a Model by Drantini - ROBLOX (updated 8/14/2008 4:32:32 PM)",
+        "Ultimate Team Freeze Tag 2.0 APRIL FOOLZ, a Free Game by idontkno - ROBLOX (updated 4/1/2012 1:17:07 PM)",
+        "face, a Decal by jeffdunham - ROBLOX (updated 7/17/2008 10:39:28 PM)",
+        "johnnydepp121 - ROBLOX",
+        "thecaptain97 - ROBLOX",
+        "zowee3840 - ROBLOX"
+      ]
+    },
+    {
+      "file": "navigation/7b79650c2b74-topNav_blue.png",
+      "category": "navigation",
+      "sha256": "7b79650c2b74ad1ab43934611c534a144d267dbe8c72d7edb05e77b9cd584b53",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401082752im_/http://www.roblox.com/images/cssspecific/rbx2/topNav_blue.png",
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/cssspecific/rbx2/topNav_blue.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX",
+        "Free Games at ROBLOX.com",
+        "Get Bright Violet,Red,Blueish Green for100 robux!, a Free Game by BrE24 - ROBLOX (updated 3/24/2012 8:03:11 AM)",
+        "Red Ruby Faberge Egg, a Badge by Twala - ROBLOX (updated 5/22/2011 1:55:01 AM)",
+        "Ride A Hot Air Balloon Up To VIP (BC & TBC & OBC), a Free Game by madyx200 - ROBLOX (updated 4/2/2012 3:30:39 PM)",
+        "Sandstorm, a Badge by ch33zgr8er - ROBLOX (updated 12/24/2011 3:07:38 PM)",
+        "The best Vip door for Igortv123, a Model by Drantini - ROBLOX (updated 8/14/2008 4:32:32 PM)",
+        "Ultimate Team Freeze Tag 2.0 APRIL FOOLZ, a Free Game by idontkno - ROBLOX (updated 4/1/2012 1:17:07 PM)",
+        "face, a Decal by jeffdunham - ROBLOX (updated 7/17/2008 10:39:28 PM)",
+        "johnnydepp121 - ROBLOX",
+        "zowee3840 - ROBLOX"
+      ]
+    },
+    {
+      "file": "navigation/a09c6518d863-btn-logo.png",
+      "category": "navigation",
+      "sha256": "a09c6518d8637ab218d9034086a5319855e91d7e18ebb7ce4d7ad79515bc02d7",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120829073204im_/http://www.roblox.com/images/btn-logo.png?v=2"
+      ],
+      "sourceCaptures": [
+        "ROBLOX | Account Creation Disabled"
+      ]
+    },
+    {
+      "file": "navigation/a42da7ceec07-topNav_blue.png",
+      "category": "navigation",
+      "sha256": "a42da7ceec0753d0f3733b103a69169886a2f0e9f3c0358e16af5e3648b5773b",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130227203439im_/http://www.roblox.com/images/cssspecific/rbx2/topNav_blue.png"
+      ],
+      "sourceCaptures": [
+        "Project Efteling [3], a Free Game by erikwesley96 - ROBLOX (updated 9/11/2012 12:29:32 PM)"
+      ]
+    },
+    {
+      "file": "navigation/aa463fe639ac-GenreIconsSprite.png",
+      "category": "navigation",
+      "sha256": "aa463fe639acb104e6192dbf07a03c1681fa0a3e668cd18463036fbc0bcc3815",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120926093500im_/http://www.roblox.com/images/GenreIcons/GenreIconsSprite.png",
+        "https://web.archive.org/web/20121009193020im_/http://www.roblox.com/images/GenreIcons/GenreIconsSprite.png",
+        "https://web.archive.org/web/20121017033017im_/http://www.roblox.com/images/GenreIcons/GenreIconsSprite.png",
+        "https://web.archive.org/web/20130109112202im_/http://www.roblox.com/images/GenreIcons/GenreIconsSprite.png",
+        "https://web.archive.org/web/20130227203439im_/http://www.roblox.com/images/GenreIcons/GenreIconsSprite.png"
+      ],
+      "sourceCaptures": [
+        "An X., a Hat by ROBLOX - ROBLOX (updated 12/17/2007 3:32:30 PM)",
+        "Nice Dress, a Pants by LiveBuilder - ROBLOX (updated 4/21/2012 4:56:01 PM)",
+        "Nice little Deli, a Model by livemIyasI - ROBLOX (updated 3/7/2008 7:18:31 PM)",
+        "Project Efteling [3], a Free Game by erikwesley96 - ROBLOX (updated 9/11/2012 12:29:32 PM)",
+        "Red Horns, a Hat by ROBLOX - ROBLOX (updated 2/7/2010 5:59:56 AM)"
+      ]
+    },
+    {
+      "file": "navigation/bad270cd55e3-btn-logo.png",
+      "category": "navigation",
+      "sha256": "bad270cd55e34ebdf041b99f9fa093af1038597f29b1e776aac2512539da654a",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401082752im_/http://www.roblox.com/images/btn-logo.png",
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/btn-logo.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX",
+        "Free Games at ROBLOX.com",
+        "Get Bright Violet,Red,Blueish Green for100 robux!, a Free Game by BrE24 - ROBLOX (updated 3/24/2012 8:03:11 AM)",
+        "Red Ruby Faberge Egg, a Badge by Twala - ROBLOX (updated 5/22/2011 1:55:01 AM)",
+        "Ride A Hot Air Balloon Up To VIP (BC & TBC & OBC), a Free Game by madyx200 - ROBLOX (updated 4/2/2012 3:30:39 PM)",
+        "The best Vip door for Igortv123, a Model by Drantini - ROBLOX (updated 8/14/2008 4:32:32 PM)",
+        "Ultimate Team Freeze Tag 2.0 APRIL FOOLZ, a Free Game by idontkno - ROBLOX (updated 4/1/2012 1:17:07 PM)",
+        "face, a Decal by jeffdunham - ROBLOX (updated 7/17/2008 10:39:28 PM)",
+        "johnnydepp121 - ROBLOX",
+        "zowee3840 - ROBLOX"
+      ]
+    },
+    {
+      "file": "navigation/dd25ca1b4356-btn-rbx_logo.png",
+      "category": "navigation",
+      "sha256": "dd25ca1b4356d9163341bd1b030ae98bc8d30d6d009c6a6fbd3774a02cdf8e2c",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120926093500im_/http://www.roblox.com/images/RevisedHeader/btn-rbx_logo.png",
+        "https://web.archive.org/web/20121009193020im_/http://www.roblox.com/images/RevisedHeader/btn-rbx_logo.png",
+        "https://web.archive.org/web/20121017033017im_/http://www.roblox.com/images/RevisedHeader/btn-rbx_logo.png",
+        "https://web.archive.org/web/20121212175222im_/http://www.roblox.com/images/RevisedHeader/btn-rbx_logo.png",
+        "https://web.archive.org/web/20130109112202im_/http://www.roblox.com/images/RevisedHeader/btn-rbx_logo.png",
+        "https://web.archive.org/web/20130523152523im_/http://www.roblox.com/images/RevisedHeader/btn-rbx_logo.png",
+        "https://web.archive.org/web/20140114053048im_/http://www.roblox.com/images/RevisedHeader/btn-rbx_logo.png"
+      ],
+      "sourceCaptures": [
+        "1629's Place, a Free Game by 1629 - ROBLOX (updated 4/23/2009 8:29:21 PM)",
+        "An X., a Hat by ROBLOX - ROBLOX (updated 12/17/2007 3:32:30 PM)",
+        "Nice Dress, a Pants by LiveBuilder - ROBLOX (updated 4/21/2012 4:56:01 PM)",
+        "Nice little Deli, a Model by livemIyasI - ROBLOX (updated 3/7/2008 7:18:31 PM)",
+        "ROBLOX.com",
+        "Red Horns, a Hat by ROBLOX - ROBLOX (updated 2/7/2010 5:59:56 AM)",
+        "boringawsome123 - ROBLOX"
+      ]
+    },
+    {
+      "file": "navigation/f8bfd056b1f9-ui-icons_363636_256x240.png",
+      "category": "navigation",
+      "sha256": "f8bfd056b1f9aad0d003d6019274a8505e33d9626f9c1a5f7a4516c92f1d3a87",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20121212175222im_/http://www.roblox.com/images/RobloxUI/ui-icons_363636_256x240.png"
+      ],
+      "sourceCaptures": [
+        "boringawsome123 - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/1b0e91865105-ProgressIndicator2.gif",
+      "category": "period-ui",
+      "sha256": "1b0e91865105212f8c58d09abfc496df6b06c59e99f3538d52d3bf99edc756cd",
+      "contentType": "image/gif",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401214542im_/http://www.roblox.com/images/ProgressIndicator2.gif"
+      ],
+      "sourceCaptures": [
+        "Red Ruby Faberge Egg, a Badge by Twala - ROBLOX (updated 5/22/2011 1:55:01 AM)"
+      ]
+    },
+    {
+      "file": "period-ui/1ec8d393f247-online.png",
+      "category": "period-ui",
+      "sha256": "1ec8d393f2475345ce5f25b5a6638073d073dec061303407f886c5682135ffe4",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401233153im_/http://www.roblox.com/images/online.png"
+      ],
+      "sourceCaptures": [
+        "zowee3840 - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/265b69937443-tab_white_31h_t1.png",
+      "category": "period-ui",
+      "sha256": "265b69937443e789c8b130bdfe81e5224561d1fd60e19210fb17fbe47b6b2dd0",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130528173607im_/https://www.roblox.com/images/cssspecific/rbx2/tab_white_31h_t1.png"
+      ],
+      "sourceCaptures": [
+        "ROBLOX.com"
+      ]
+    },
+    {
+      "file": "period-ui/28c5e45edcfd-btn-buy_with_r-.png",
+      "category": "period-ui",
+      "sha256": "28c5e45edcfd1396cc5df912511ba253ee616b94bd67a0af0552954536cb037e",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120926093500im_/http://www.roblox.com/images/Buttons/btn-buy_with_r$.png"
+      ],
+      "sourceCaptures": [
+        "Nice Dress, a Pants by LiveBuilder - ROBLOX (updated 4/21/2012 4:56:01 PM)"
+      ]
+    },
+    {
+      "file": "period-ui/2af2e73d85b9-bg-btn-blue.png",
+      "category": "period-ui",
+      "sha256": "2af2e73d85b985573ce9c984a1aeebe9f2c00bfbc3713d756fe7ffa43a187abc",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130528173607im_/https://www.roblox.com/images/Buttons/StyleGuide/bg-btn-blue.png"
+      ],
+      "sourceCaptures": [
+        "ROBLOX.com"
+      ]
+    },
+    {
+      "file": "period-ui/34795ea86455-head_bkg_t2.png",
+      "category": "period-ui",
+      "sha256": "34795ea864556ba90c2d2dde14c04bef1cf32df3cb600f59c06db7446dc77042",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/cssspecific/rbx2/head_bkg_t2.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/37719b2714b1-btn_blue18h.png",
+      "category": "period-ui",
+      "sha256": "37719b2714b1cd5f02418a7abe65122c776ce725da6fa928653e1dc6d7363603",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/cssspecific/rbx2/btn_blue18h.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/37ab4d5f2400-head_bkg_t1.png",
+      "category": "period-ui",
+      "sha256": "37ab4d5f2400693a6df50926ee35a9739a8d35b145966ad32712f877e07b965b",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/cssspecific/rbx2/head_bkg_t1.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/3965f51b866e-img-robloxlogo.png",
+      "category": "period-ui",
+      "sha256": "3965f51b866e5f3a05cab647d1626278aa6457fb25c7ec14e2d1eb26f2c4fa4b",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120203212851im_/http://www.roblox.com/images/cssspecific/rbx2/img-robloxlogo.png"
+      ],
+      "sourceCaptures": [
+        "ROBLOX Error"
+      ]
+    },
+    {
+      "file": "period-ui/39ab7ccd9f4e-ui-bg_flat_100_ffffff_40x100.png",
+      "category": "period-ui",
+      "sha256": "39ab7ccd9f4e82579da78a9241265df288d8eb65dbbd7cf48aed2d0129887df5",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20121212175222im_/http://www.roblox.com/images/RobloxUI/ui-bg_flat_100_ffffff_40x100.png"
+      ],
+      "sourceCaptures": [
+        "boringawsome123 - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/49fa8cdffeda-btn-sign_up-blue-lg.png",
+      "category": "period-ui",
+      "sha256": "49fa8cdffeda8a8081110dcc49ed22ca9c88147f12890b2e0b3dfc61b5370f1c",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130227203439im_/http://www.roblox.com/images/Buttons/btn-sign_up-blue-lg.png"
+      ],
+      "sourceCaptures": [
+        "Project Efteling [3], a Free Game by erikwesley96 - ROBLOX (updated 9/11/2012 12:29:32 PM)"
+      ]
+    },
+    {
+      "file": "period-ui/4c7b50076021-tab_black_33h_t1.png",
+      "category": "period-ui",
+      "sha256": "4c7b500760219353930a192ab9c2945bdbf89397392c193bb8c3670bf973ba2e",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/cssspecific/rbx2/tab_black_33h_t1.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/4d0335f7304f-btn-take_one_v2_2.png",
+      "category": "period-ui",
+      "sha256": "4d0335f7304f6371bceada58fd475be320386a73b4b422e63fb519d2041bcfca",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130109112202im_/http://www.roblox.com/images/Buttons/btn-take_one_v2_2.png"
+      ],
+      "sourceCaptures": [
+        "Nice little Deli, a Model by livemIyasI - ROBLOX (updated 3/7/2008 7:18:31 PM)"
+      ]
+    },
+    {
+      "file": "period-ui/500b7e84fabf-offline.png",
+      "category": "period-ui",
+      "sha256": "500b7e84fabface2cb52faa0187b51d7178943598fa883d5ae06e84d68ce4c94",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130528020353im_/http://www.roblox.com/images/offline.png"
+      ],
+      "sourceCaptures": [
+        "ROBLOX.com"
+      ]
+    },
+    {
+      "file": "period-ui/52a2ffeaa7c8-bg-rbx_header.png",
+      "category": "period-ui",
+      "sha256": "52a2ffeaa7c8c00525b8c2fbe3cf16da432dd85bf30f7e39f02d55777cc12c7f",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130523152523im_/http://www.roblox.com/images/RevisedHeader/bg-rbx_header.png"
+      ],
+      "sourceCaptures": [
+        "ROBLOX.com"
+      ]
+    },
+    {
+      "file": "period-ui/54d4c816151f-abuse.PNG",
+      "category": "period-ui",
+      "sha256": "54d4c816151fc2f95c82c06a8a65f9b62808ff0378fe7b9aadbe8e75097c9d02",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401233244im_/http://www.roblox.com/images/abuse.PNG?v=2"
+      ],
+      "sourceCaptures": [
+        "Get Bright Violet,Red,Blueish Green for100 robux!, a Free Game by BrE24 - ROBLOX (updated 3/24/2012 8:03:11 AM)"
+      ]
+    },
+    {
+      "file": "period-ui/5531358589fa-online.png",
+      "category": "period-ui",
+      "sha256": "5531358589fa0c4592e2019de0a695d61b5a89836f28d3cbda0601ab4309bc0a",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130528020353im_/http://www.roblox.com/images/online.png"
+      ],
+      "sourceCaptures": [
+        "ROBLOX.com"
+      ]
+    },
+    {
+      "file": "period-ui/58468b21a5ec-tab_white_31h_t1.png",
+      "category": "period-ui",
+      "sha256": "58468b21a5ecaea15dc33efeac615336efb28dcb03b51f1962c1a55dfff1530f",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/cssspecific/rbx2/tab_white_31h_t1.png"
+      ],
+      "sourceCaptures": [
+        "Red Ruby Faberge Egg, a Badge by Twala - ROBLOX (updated 5/22/2011 1:55:01 AM)"
+      ]
+    },
+    {
+      "file": "period-ui/58c480d42d9e-bg-speech_bottom.png",
+      "category": "period-ui",
+      "sha256": "58c480d42d9e05eaa0db8396e1d9f56e1e0e86bda5b5d954e4c486d799c5de92",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130528173607im_/https://www.roblox.com/images/Groups/bg-speech_bottom.png"
+      ],
+      "sourceCaptures": [
+        "ROBLOX.com"
+      ]
+    },
+    {
+      "file": "period-ui/5b32ecf38305-bg-speech_top.png",
+      "category": "period-ui",
+      "sha256": "5b32ecf383051e5246903326f9fde2d5d54db6d1bd4f5ea6fa0066786daa6dca",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130528173607im_/https://www.roblox.com/images/Groups/bg-speech_top.png"
+      ],
+      "sourceCaptures": [
+        "ROBLOX.com"
+      ]
+    },
+    {
+      "file": "period-ui/5d09fe275a3d-btn-buy_with_tx.png",
+      "category": "period-ui",
+      "sha256": "5d09fe275a3dd5e30fc186f88849a659ae45f19a3bb2166de3b81c297cf92db1",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120926093500im_/http://www.roblox.com/images/Buttons/btn-buy_with_tx.png"
+      ],
+      "sourceCaptures": [
+        "Nice Dress, a Pants by LiveBuilder - ROBLOX (updated 4/21/2012 4:56:01 PM)"
+      ]
+    },
+    {
+      "file": "period-ui/641a5352f53b-btn-login_dropdown.png",
+      "category": "period-ui",
+      "sha256": "641a5352f53b71f264fc086dca26121f82144445d33673faa18170e8166096ff",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20121212175222im_/http://www.roblox.com/images/btn-login_dropdown.png"
+      ],
+      "sourceCaptures": [
+        "boringawsome123 - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/6d0f3739db5c-tab_white_31h_t2.png",
+      "category": "period-ui",
+      "sha256": "6d0f3739db5c04d9f37da60d2fe2c8a44648d1bbfb29ed79165d181090b1385d",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130528173607im_/https://www.roblox.com/images/cssspecific/rbx2/tab_white_31h_t2.png"
+      ],
+      "sourceCaptures": [
+        "ROBLOX.com"
+      ]
+    },
+    {
+      "file": "period-ui/704473c9f13a-errorPage.jpg",
+      "category": "period-ui",
+      "sha256": "704473c9f13af13b975eb1e2d5ae2fad75f065ab3c56cf6a4da4df46dd8fd6af",
+      "contentType": "image/jpeg",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120207004251im_/http://roblox.com/images/errorPage.jpg"
+      ],
+      "sourceCaptures": [
+        "ROBLOX Error"
+      ]
+    },
+    {
+      "file": "period-ui/76dd94ccb6f0-MyMoney_fakeborderbg2.png",
+      "category": "period-ui",
+      "sha256": "76dd94ccb6f047a2c8b132aa434eb74f61df3d0cf3cab8588ff884470535e623",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20121009193020im_/http://www.roblox.com/images/Icons/MyMoney_fakeborderbg2.png"
+      ],
+      "sourceCaptures": [
+        "An X., a Hat by ROBLOX - ROBLOX (updated 12/17/2007 3:32:30 PM)"
+      ]
+    },
+    {
+      "file": "period-ui/77108ae2a7bc-btn_25px_blue.png",
+      "category": "period-ui",
+      "sha256": "77108ae2a7bc36862d0e25755c68d270505cd9229cd3bb110412adf24f070048",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130227203439im_/http://www.roblox.com/images/Buttons/btn_25px_blue.png"
+      ],
+      "sourceCaptures": [
+        "Project Efteling [3], a Free Game by erikwesley96 - ROBLOX (updated 9/11/2012 12:29:32 PM)"
+      ]
+    },
+    {
+      "file": "period-ui/77bd8456802b-btn_green_30h_t1.png",
+      "category": "period-ui",
+      "sha256": "77bd8456802b1910bbcfd9a7949b0bc252f53604f4786c9eef526b366a27ce3e",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/btn_green_30h_t1.png"
+      ],
+      "sourceCaptures": [
+        "Red Ruby Faberge Egg, a Badge by Twala - ROBLOX (updated 5/22/2011 1:55:01 AM)"
+      ]
+    },
+    {
+      "file": "period-ui/7ccb12a8328e-blue_arrow_btns_12x12_sprite.png",
+      "category": "period-ui",
+      "sha256": "7ccb12a8328e3cc73059405d5a0c031cf206d6b4b3a87e73bd0ddde52cfdb52c",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130528173607im_/https://www.roblox.com/images/Groups/blue_arrow_btns_12x12_sprite.png"
+      ],
+      "sourceCaptures": [
+        "ROBLOX.com"
+      ]
+    },
+    {
+      "file": "period-ui/80987e15dad8-standardBox_01_bkg.png",
+      "category": "period-ui",
+      "sha256": "80987e15dad839474df437b80c0383f88c348f5a2b76c9e3fbe5403d6b198f08",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130528173607im_/https://www.roblox.com/images/cssspecific/rbx2/standardBox_01_bkg.png"
+      ],
+      "sourceCaptures": [
+        "ROBLOX.com"
+      ]
+    },
+    {
+      "file": "period-ui/85aa7adb8b91-btn_play_54h.png",
+      "category": "period-ui",
+      "sha256": "85aa7adb8b91ed6d4c0510d37b2c183d4ccf25683ee891450546b41134f3a0ba",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20121212175222im_/http://www.roblox.com/images/cssspecific/rbx2/btn_play_54h.png"
+      ],
+      "sourceCaptures": [
+        "boringawsome123 - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/92dda491e679-tab_white_31h_t2.png",
+      "category": "period-ui",
+      "sha256": "92dda491e6790ffb77a31fc055e54e004cab3ce1bca8a659b24027faacc389c6",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/cssspecific/rbx2/tab_white_31h_t2.png"
+      ],
+      "sourceCaptures": [
+        "Red Ruby Faberge Egg, a Badge by Twala - ROBLOX (updated 5/22/2011 1:55:01 AM)"
+      ]
+    },
+    {
+      "file": "period-ui/96fa1987c458-btn_25px_white.png",
+      "category": "period-ui",
+      "sha256": "96fa1987c458bbff1ed8d94b8a9de244d1cd207dab9b846b677b8fa0c097a88d",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130227203439im_/http://www.roblox.com/images/Games/CuratedGames/btn_25px_white.png"
+      ],
+      "sourceCaptures": [
+        "Project Efteling [3], a Free Game by erikwesley96 - ROBLOX (updated 9/11/2012 12:29:32 PM)"
+      ]
+    },
+    {
+      "file": "period-ui/9ac3dbbd74d9-ProgressIndicator3.gif",
+      "category": "period-ui",
+      "sha256": "9ac3dbbd74d9f0bb0a6b0aa4a0a6f155a2df9b1ab3d949130786c5b58b37eac7",
+      "contentType": "image/gif",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402190226im_/http://www.roblox.com/images/ProgressIndicator3.gif"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/9fb923728ff3-btn_green_30h_t2.png",
+      "category": "period-ui",
+      "sha256": "9fb923728ff38975aa14ac0f50d679043316e0b31655f1bb4487eab4d263b14d",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/btn_green_30h_t2.png"
+      ],
+      "sourceCaptures": [
+        "Red Ruby Faberge Egg, a Badge by Twala - ROBLOX (updated 5/22/2011 1:55:01 AM)"
+      ]
+    },
+    {
+      "file": "period-ui/a041bdb2950b-offline.png",
+      "category": "period-ui",
+      "sha256": "a041bdb2950b58b63815b4fccf1f13d13e64120618221ba979927d4f7061fa0d",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402190226im_/http://www.roblox.com/images/offline.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/a2afd47fd660-btn-playnow_small.png",
+      "category": "period-ui",
+      "sha256": "a2afd47fd6601e3b7623a9fee4219822437d7728efda7637b4bab7b5423fc3d3",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/btn-playnow_small.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/a41f6163cd31-bkg.jpg",
+      "category": "period-ui",
+      "sha256": "a41f6163cd31c58908c58912de5a39d5103da5a8ab01cb5dfefed34bdff44d94",
+      "contentType": "image/jpeg",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120203212851im_/http://www.roblox.com/images/cssspecific/rbx2/bkg.jpg"
+      ],
+      "sourceCaptures": [
+        "ROBLOX Error"
+      ]
+    },
+    {
+      "file": "period-ui/ab8bf54dbaf4-standardBox_01_bkg.png",
+      "category": "period-ui",
+      "sha256": "ab8bf54dbaf44c0b1a6e2a7de228e0b595d81c61fc880c6d183e2fa003043690",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/cssspecific/rbx2/standardBox_01_bkg.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/ad8449cbdcf2-img-or_divider.png",
+      "category": "period-ui",
+      "sha256": "ad8449cbdcf2f87f23f2efb97bccd80d258a51f4cbc4b891fbad66667555f265",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120926093500im_/http://www.roblox.com/images/UI/img-or_divider.png"
+      ],
+      "sourceCaptures": [
+        "Nice Dress, a Pants by LiveBuilder - ROBLOX (updated 4/21/2012 4:56:01 PM)"
+      ]
+    },
+    {
+      "file": "period-ui/b3a99c5f768f-btn-signup.png",
+      "category": "period-ui",
+      "sha256": "b3a99c5f768f7508892717676e6775d045b53d0ccd7568e824a90756d015b53e",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/Buttons/btn-signup.png"
+      ],
+      "sourceCaptures": [
+        "Get Bright Violet,Red,Blueish Green for100 robux!, a Free Game by BrE24 - ROBLOX (updated 3/24/2012 8:03:11 AM)"
+      ]
+    },
+    {
+      "file": "period-ui/be6270026c8a-img-robux.png",
+      "category": "period-ui",
+      "sha256": "be6270026c8a56234443459408ec574e4f079748d05b22c24d49557318533ebb",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120926093500im_/http://www.roblox.com/images/Icons/img-robux.png"
+      ],
+      "sourceCaptures": [
+        "Nice Dress, a Pants by LiveBuilder - ROBLOX (updated 4/21/2012 4:56:01 PM)"
+      ]
+    },
+    {
+      "file": "period-ui/c1c6612cc631-bg-drop_down_arrow.png",
+      "category": "period-ui",
+      "sha256": "c1c6612cc631b7fbb46eb6985120b8dee14cce98b23f4e5b3af2491a53da2fd4",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130523152523im_/http://www.roblox.com/images/Buttons/bg-drop_down_arrow.png"
+      ],
+      "sourceCaptures": [
+        "ROBLOX.com"
+      ]
+    },
+    {
+      "file": "period-ui/c550b1254343-GenreSuitcase16x16.png",
+      "category": "period-ui",
+      "sha256": "c550b12543432e16f07d99928f0ca22eeda4a8c6e63a87b46a6313aecdca3254",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401233244im_/http://www.roblox.com/images/GenreSuitcase16x16.png"
+      ],
+      "sourceCaptures": [
+        "Get Bright Violet,Red,Blueish Green for100 robux!, a Free Game by BrE24 - ROBLOX (updated 3/24/2012 8:03:11 AM)"
+      ]
+    },
+    {
+      "file": "period-ui/cd49100261e5-btn_play_54h.png",
+      "category": "period-ui",
+      "sha256": "cd49100261e5f8b29acbc9c9b284dba4aea2f8880e3c9b78ce4de85294500e7a",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/cssspecific/rbx2/btn_play_54h.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/d5b47ebde3ff-star.png",
+      "category": "period-ui",
+      "sha256": "d5b47ebde3ff8853a0ee90cd51c58711a43c9eccc69e67c12494ea75c67ba1a2",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20121009193020im_/http://www.roblox.com/images/star.png"
+      ],
+      "sourceCaptures": [
+        "An X., a Hat by ROBLOX - ROBLOX (updated 12/17/2007 3:32:30 PM)"
+      ]
+    },
+    {
+      "file": "period-ui/d7a46b897989-tab_white_26h_t2.png",
+      "category": "period-ui",
+      "sha256": "d7a46b8979892b95683bf945c403cbb659a257305a0446e192660d6139639894",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/cssspecific/rbx2/tab_white_26h_t2.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/e7ee15fefb9b-Tickets.png",
+      "category": "period-ui",
+      "sha256": "e7ee15fefb9b022fd1fcfdf4ff27aafbe7bd4cbb3334b0d665d0c4f0eb45e1ce",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120926093500im_/http://www.roblox.com/images/Tickets.png"
+      ],
+      "sourceCaptures": [
+        "Nice Dress, a Pants by LiveBuilder - ROBLOX (updated 4/21/2012 4:56:01 PM)"
+      ]
+    },
+    {
+      "file": "period-ui/e865b7b70f2d-btn-control-large-tile.png",
+      "category": "period-ui",
+      "sha256": "e865b7b70f2d3ef12970f422540463f987b89bc05bb2ba93dd759094bd7bc71b",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130528173607im_/https://www.roblox.com/images/StyleGuide/btn-control-large-tile.png"
+      ],
+      "sourceCaptures": [
+        "ROBLOX.com"
+      ]
+    },
+    {
+      "file": "period-ui/ec978efed2ca-dialog_avatar.png",
+      "category": "period-ui",
+      "sha256": "ec978efed2cae47aadeb4b36555523e5939c49c3cede3a99f09b2184cb5a2d8b",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402190226im_/http://www.roblox.com/images/dialog_avatar.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/ed81ea222eae-followme_19h.png",
+      "category": "period-ui",
+      "sha256": "ed81ea222eae9f149b3796e2e220f41606dbc096323dcdc724b216a009b0d2fc",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/Buttons/followme_19h.png"
+      ],
+      "sourceCaptures": [
+        "zowee3840 - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/f2da80ab7b4c-tab_white_26h_t1.png",
+      "category": "period-ui",
+      "sha256": "f2da80ab7b4c0bbe7707609f1ff98b4bd5a9caaed0c6763397ae088dd224baa9",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/cssspecific/rbx2/tab_white_26h_t1.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/f3d4a7090df7-bg-silver_bar.png",
+      "category": "period-ui",
+      "sha256": "f3d4a7090df7e63e2b769c79edb2a0d54c847b3797520efb3a916df5a6943709",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20121212175222im_/http://www.roblox.com/images/RobloxUI/bg-silver_bar.png"
+      ],
+      "sourceCaptures": [
+        "boringawsome123 - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/f648971704d7-btn-buynow_grn_m.png",
+      "category": "period-ui",
+      "sha256": "f648971704d79c033bc86d64e330fb9dfc37d52d0bb6344db6b3ce6704af13dc",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20121009193020im_/http://www.roblox.com/images/Buttons/btn-buynow_grn_m.png"
+      ],
+      "sourceCaptures": [
+        "An X., a Hat by ROBLOX - ROBLOX (updated 12/17/2007 3:32:30 PM)"
+      ]
+    },
+    {
+      "file": "period-ui/f77f5135bd75-tab_black_33h_t2.png",
+      "category": "period-ui",
+      "sha256": "f77f5135bd752cf204d3e3b3b0a9664ae223dca44aeb03ca6a6707a899109836",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/cssspecific/rbx2/tab_black_33h_t2.png"
+      ],
+      "sourceCaptures": [
+        "DagYo - ROBLOX"
+      ]
+    },
+    {
+      "file": "period-ui/fb708b026126-abuse.PNG",
+      "category": "period-ui",
+      "sha256": "fb708b02612611dda7753b4cc1074e060e7b04b77b3a8e2353bc2dd4711c2341",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20130528020353im_/http://www.roblox.com/images/abuse.PNG?v=2"
+      ],
+      "sourceCaptures": [
+        "ROBLOX.com"
+      ]
+    },
+    {
+      "file": "status-icons/2a013ba0f7a0-icon_success_50px.png",
+      "category": "status-icons",
+      "sha256": "2a013ba0f7a0291ef34aad038e296de77ac65dcddd01f99f0fe1d4f056ba7594",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120401154933im_/http://www.roblox.com/images/icon_success_50px.png",
+        "https://web.archive.org/web/20120401213104im_/http://www.roblox.com/images/icon_success_50px.png",
+        "https://web.archive.org/web/20120401214542im_/http://www.roblox.com/images/icon_success_50px.png",
+        "https://web.archive.org/web/20120402223501im_/http://www.roblox.com/images/icon_success_50px.png"
+      ],
+      "sourceCaptures": [
+        "Red Ruby Faberge Egg, a Badge by Twala - ROBLOX (updated 5/22/2011 1:55:01 AM)",
+        "Sandstorm, a Badge by ch33zgr8er - ROBLOX (updated 12/24/2011 3:07:38 PM)",
+        "The best Vip door for Igortv123, a Model by Drantini - ROBLOX (updated 8/14/2008 4:32:32 PM)",
+        "face, a Decal by jeffdunham - ROBLOX (updated 7/17/2008 10:39:28 PM)"
+      ]
+    },
+    {
+      "file": "status-icons/976030968a77-exclamation.png",
+      "category": "status-icons",
+      "sha256": "976030968a773461fcc2bbd65ee003e1587b43e8042a233b85d7101780ac19d6",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120926093500im_/http://www.roblox.com/images/Icons/exclamation.png"
+      ],
+      "sourceCaptures": [
+        "Nice Dress, a Pants by LiveBuilder - ROBLOX (updated 4/21/2012 4:56:01 PM)"
+      ]
+    },
+    {
+      "file": "status-icons/c89b56c55b93-exclamation.png",
+      "category": "status-icons",
+      "sha256": "c89b56c55b934b1f05ef01d47aa7169b5ca0322c37d1fcf62b067d660eb29f12",
+      "contentType": "image/png",
+      "sourceLocations": [
+        "https://web.archive.org/web/20120402103557im_/http://www.roblox.com/images/Icons/exclamation.png"
+      ],
+      "sourceCaptures": [
+        "face, a Decal by jeffdunham - ROBLOX (updated 7/17/2008 10:39:28 PM)"
+      ]
+    }
+  ]
+}

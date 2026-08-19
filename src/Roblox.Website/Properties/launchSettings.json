@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Roblox.Website": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5100"
+    }
+  }
+}

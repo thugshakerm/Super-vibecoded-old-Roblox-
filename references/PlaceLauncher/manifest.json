@@ -1,0 +1,20 @@
+{
+  "captureSource": "https://web.archive.org/web/20130528020353/http://www.roblox.com/Groups/group.aspx?gid=27770",
+  "captureTimestamp": "2013-05-28T02:03:53Z",
+  "files": [
+    {
+      "file": "popup.html.fragment",
+      "purpose": "Exact hidden launcher-popup markup from capture"
+    },
+    {
+      "file": "popup.css.fragment",
+      "purpose": "Place-launcher CSS rules from capture"
+    },
+    {
+      "file": "progress-indicator.gif",
+      "sha256": "9ac3dbbd74d9f0bb0a6b0aa4a0a6f155a2df9b1ab3d949130786c5b58b37eac7",
+      "sourceLocation": "https://web.archive.org/web/20130528020353im_/http://imagesak.roblox.com/e998fb4c03e8c2e30792f2f3436e9416.gif",
+      "purpose": "Popup progress indicator"
+    }
+  ]
+}
