@@ -183,3 +183,8 @@ fragment and its sourced progress asset. It is not yet hosted by a page. See
 The raw 2013 Home source is retained under `references/Home/`; its sanitized,
 runtime-bound navigation partial is in `Pages/Shared/Navigation/Navigation.cshtml`.
 See `docs/HOME_NAVIGATION_COMPONENT.md`.
+
+## Frontend phase: 2013 Home footer
+
+The sanitized 2013 Home footer component is now available under
+`Pages/Shared/Navigation/Footer.cshtml`. See `docs/HOME_FOOTER_COMPONENT.md`.
