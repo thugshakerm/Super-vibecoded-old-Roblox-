@@ -26,10 +26,16 @@ if not exist ".env" (
 )
 
 for /f "usebackq tokens=1,* delims==" %%A in (".env") do (
+  if "%%A"=="POSTGRES_DB" set "POSTGRES_DB=%%B"
+  if "%%A"=="POSTGRES_USER" set "POSTGRES_USER=%%B"
   if "%%A"=="POSTGRES_PASSWORD" set "POSTGRES_PASSWORD=%%B"
+  if "%%A"=="POSTGRES_PORT" set "POSTGRES_PORT=%%B"
 )
+if "%POSTGRES_DB%"=="" set "POSTGRES_DB=roblox_revival"
+if "%POSTGRES_USER%"=="" set "POSTGRES_USER=roblox"
 if "%POSTGRES_PASSWORD%"=="" set "POSTGRES_PASSWORD=change-this-local-password"
-set "ConnectionStrings__Roblox=Host=localhost;Port=5432;Database=roblox_revival;Username=roblox;Password=%POSTGRES_PASSWORD%"
+if "%POSTGRES_PORT%"=="" set "POSTGRES_PORT=5433"
+set "ConnectionStrings__Roblox=Host=localhost;Port=%POSTGRES_PORT%;Database=%POSTGRES_DB%;Username=%POSTGRES_USER%;Password=%POSTGRES_PASSWORD%"
 
 echo Starting PostgreSQL...
 docker compose up -d postgres
