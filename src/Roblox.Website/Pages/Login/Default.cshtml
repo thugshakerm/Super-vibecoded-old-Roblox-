@@ -1,21 +1,29 @@
 @page "/Login/Default.aspx"
 @model Roblox.Website.Pages.Login.DefaultModel
 @{ ViewData["Title"] = "ROBLOX Login"; }
-<h1>Login</h1>
-<form method="post" id="loginForm">
-    <div id="loginarea" class="divider-bottom">
-        <div id="leftArea">
-            <div id="loginPanel">
-                <table id="logintable">
-                    <tr id="username"><td><label class="form-label" asp-for="Input.Username">Username:</label></td><td><input asp-for="Input.Username" class="text-box text-box-medium" autocomplete="username" /></td></tr>
-                    <tr id="password"><td><label class="form-label" asp-for="Input.Password">Password:</label></td><td><input asp-for="Input.Password" class="text-box text-box-medium" type="password" autocomplete="current-password" /></td></tr>
-                </table>
-                <div id="forgotPasswordPanel"><a class="text-link" href="/Login/ResetPasswordRequest.aspx">Forgot your password?</a></div>
-                <div id="signInButtonPanel"><button type="submit" class="btn-medium btn-neutral">Sign In</button></div><div class="clearFloats"></div>
-                @if (!string.IsNullOrWhiteSpace(Model.ErrorMessage)) { <div class="validation-summary-errors">@Model.ErrorMessage</div> }
+<div class="LoginNewStyle">
+    <div class="MyRobloxContainer">
+        <div style="clear:both;"></div>
+        <div class="Column1a">
+            <div class="StandardBoxHeader" id="newLoginHeader" style="width:300px;"><span>Login</span></div>
+            <div class="StandardBox" id="newLogin" style="height:170px;width:300px;">
+                <form method="post" class="AspNet-Login">
+                    <table style="margin:0 auto;"><tbody>
+                        @if (!string.IsNullOrWhiteSpace(Model.ErrorMessage)) { <tr><td colspan="2" style="color:#FF0000">@Model.ErrorMessage</td></tr> }
+                        <tr><td style="text-align:right;">Username:</td><td><div><input asp-for="Input.Username" id="ctl00_cphRoblox_lRobloxLogin_UserName" class="TextBox" style="border:2px solid #CCCCCC;width:130px;" autocomplete="username"></div></td></tr>
+                        <tr><td style="text-align:right;">Password:</td><td style="position:relative;display:block;"><div style="float:left;width:215px;"><div><input asp-for="Input.Password" id="ctl00_cphRoblox_lRobloxLogin_Password" class="TextBox" style="border:2px solid #CCCCCC;width:130px;" type="password" autocomplete="current-password"></div></div><div style="position:absolute;top:2px;left:150px;"><input type="submit" value="Login" class="MediumButton translate"></div></td></tr>
+                        <tr><td colspan="2" align="center" style="padding-bottom:10px;"><div style="font-size:11px;"><a href="/Login/ResetPasswordRequest.aspx">Forgot your password?</a></div></td></tr>
+                    </tbody></table>
+                </form>
             </div>
         </div>
-        <div id="rightArea" class="divider-left"><div id="signUpPanel" class="FrontPageLoginBox"><p class="text">Not a member?</p><h2>Sign Up &amp; Make Friends</h2><p class="text">What is your birthday?</p><a href="/Login/Signup.aspx" class="btn-medium btn-primary">Sign Up</a></div></div>
+        <div class="Column2a">
+            <div class="StandardBoxHeader" style="width:558px;float:right;"><span>Create a Free ROBLOX Account</span></div>
+            <div class="StandardBox" id="newSignupBox" style="width:558px;float:right;min-height:170px;"><div id="ChooseBirthdate" style="height:111px;"><p>Creating an account on ROBLOX allows you to customize your character, make friends, build places, earn money, and more!</p><center><span>Your Date of Birth: </span><select><option>Select Month</option></select><select><option>Select Day</option></select><select><option>Select Year</option></select>&nbsp;&nbsp;<a href="/Login/NewAge.aspx" class="MediumButton translate">Continue</a><div style="font-style:italic;margin-top:15px;">Your birthday will not be given out to any third party!</div></center></div></div>
+        </div>
+        <div style="clear:both;"></div>
+        <div id="ExpandBorder" style="float:right;width:568px;height:40px;border:1px solid #AAAAAA;border-top:none;margin-top:-49px">&nbsp;</div>
+        <div class="Column1a"><div class="StandardBoxHeader" style="width:300px;"><span>You don't need an account to play ROBLOX</span></div><div class="StandardBox" style="width:300px;text-align:center;"><p>You can start playing right now, in guest mode! Just click on the game you want to play.</p><a href="/Games.aspx" class="MediumButton" style="text-decoration:none;color:#222222;width:20%;">Play as Guest</a><p></p></div></div>
+        <div style="clear:both;"></div>
     </div>
-</form>
-<div id="guestarea"><h2>You don't need an account to play ROBLOX</h2><p class="text">You can start playing right now, in guest mode! <a href="/Games.aspx" class="btn-small btn-neutral" id="guestButton">Play as Guest</a></p></div>
+</div>
