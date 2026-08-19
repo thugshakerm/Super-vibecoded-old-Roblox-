@@ -1,0 +1,96 @@
+{
+  "source": "https://web.archive.org/web/20130706020103/http://www.roblox.com/Login/Default.aspx",
+  "subject": "ROBLOX Login",
+  "resources": [
+    {
+      "file": "56f2adc652f5-c54428d4c073c3afa9348e76007733b6.png",
+      "type": "image/png",
+      "source": "https://web.archive.org/web/20130706020103im_/https://s3.amazonaws.com/images.roblox.com/c54428d4c073c3afa9348e76007733b6.png"
+    },
+    {
+      "file": "b017b5397e68-9458fba608ad69e5d88ccb58b74c7dc4.png",
+      "type": "image/png",
+      "source": "https://web.archive.org/web/20130706020103im_/https://s3.amazonaws.com:443/t3.roblox.com/9458fba608ad69e5d88ccb58b74c7dc4"
+    },
+    {
+      "file": "a4bbe9c65b41-899b708df3ffaa58848c4b4383dc45c3.png",
+      "type": "image/png",
+      "source": "https://web.archive.org/web/20130706020103im_/https://s3.amazonaws.com:443/t5.roblox.com/899b708df3ffaa58848c4b4383dc45c3"
+    },
+    {
+      "file": "66c9b4db62bd-2e48fdde87c7cf61820a798eae33d3ce.png",
+      "type": "image/png",
+      "source": "https://web.archive.org/web/20130706020103im_/https://s3.amazonaws.com/images.roblox.com/2e48fdde87c7cf61820a798eae33d3ce"
+    },
+    {
+      "file": "fa30b2ef4c31-f6ff0e3759771b163c62b7d5ae32f5e3.png",
+      "type": "image/png",
+      "source": "https://web.archive.org/web/20130706020103im_/https://s3.amazonaws.com/images.roblox.com/f6ff0e3759771b163c62b7d5ae32f5e3"
+    },
+    {
+      "file": "5a3bb1567ffd-loading.gif",
+      "type": "image/gif",
+      "source": "https://web-static.archive.org/_static/images/loading.gif"
+    },
+    {
+      "file": "c417dc1cf27e-wayback-toolbar-logo-200.png",
+      "type": "image/png",
+      "source": "https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png"
+    },
+    {
+      "file": "52a2ffeaa7c8-bg-rbx_header.png",
+      "type": "image/png",
+      "source": "https://web.archive.org/web/20130628032258im_/http://www.roblox.com/images/RevisedHeader/bg-rbx_header.png"
+    },
+    {
+      "file": "9342745cd31f-FetchCSS.css",
+      "type": "text/css",
+      "source": "https://web.archive.org/web/20130706020103cs_/http://www.roblox.com/CSS/Base/CSS/FetchCSS?path=page___c8c5fc6ec88c1a359b92c484cdfa7fbe_m.css"
+    },
+    {
+      "file": "80987e15dad8-standardBox_01_bkg.png",
+      "type": "image/png",
+      "source": "https://web.archive.org/web/20130706034956im_/https://www.roblox.com/images/cssspecific/rbx2/standardBox_01_bkg.png"
+    },
+    {
+      "file": "e865b7b70f2d-btn-control-large-tile.png",
+      "type": "image/png",
+      "source": "https://web.archive.org/web/20130706034956im_/https://www.roblox.com/images/StyleGuide/btn-control-large-tile.png"
+    },
+    {
+      "file": "0d7731c59046-FetchCSS.css",
+      "type": "text/css",
+      "source": "https://web.archive.org/web/20130706020103cs_/http://www.roblox.com/CSS/Base/CSS/FetchCSS?path=main___b21526be8bd1b2635a1379cb6acf7350_m.css"
+    },
+    {
+      "file": "f0c2289c294a-iconochive.css",
+      "type": "text/css",
+      "source": "https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv"
+    },
+    {
+      "file": "ecf4baa35efb-web-screenshot.svg",
+      "type": "image/svg+xml",
+      "source": "https://web-static.archive.org/_static/images/web-screenshot.svg"
+    },
+    {
+      "file": "a1d986e49ca9-banner-styles.css",
+      "type": "text/css",
+      "source": "https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3"
+    },
+    {
+      "file": "215805fba013-cid-css-b668221c-9fda-41f5-bd19-066529ed0ab5-mhtml.blink.css",
+      "type": "text/css",
+      "source": "cid:css-b668221c-9fda-41f5-bd19-066529ed0ab5@mhtml.blink"
+    },
+    {
+      "file": "65fa191c6228-cid-css-cf39840e-c2c7-4c71-8c49-60bac43920fe-mhtml.blink.css",
+      "type": "text/css",
+      "source": "cid:css-cf39840e-c2c7-4c71-8c49-60bac43920fe@mhtml.blink"
+    },
+    {
+      "file": "c9688499e6fc-FetchCSS.css",
+      "type": "text/css",
+      "source": "https://web.archive.org/web/20131017214115cs_/https://www.roblox.com/CSS/Base/CSS/FetchCSS?path=main___70fd34e010962f588f9570202a2ab7f5_m.css"
+    }
+  ]
+}
