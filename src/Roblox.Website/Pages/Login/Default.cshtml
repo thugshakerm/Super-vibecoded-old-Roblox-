@@ -1,0 +1,21 @@
+@page "/Login/Default.aspx"
+@model Roblox.Website.Pages.Login.DefaultModel
+@{ ViewData["Title"] = "ROBLOX Login"; }
+<h1>Login</h1>
+<form method="post" id="loginForm">
+    <div id="loginarea" class="divider-bottom">
+        <div id="leftArea">
+            <div id="loginPanel">
+                <table id="logintable">
+                    <tr id="username"><td><label class="form-label" asp-for="Input.Username">Username:</label></td><td><input asp-for="Input.Username" class="text-box text-box-medium" autocomplete="username" /></td></tr>
+                    <tr id="password"><td><label class="form-label" asp-for="Input.Password">Password:</label></td><td><input asp-for="Input.Password" class="text-box text-box-medium" type="password" autocomplete="current-password" /></td></tr>
+                </table>
+                <div id="forgotPasswordPanel"><a class="text-link" href="/Login/ResetPasswordRequest.aspx">Forgot your password?</a></div>
+                <div id="signInButtonPanel"><button type="submit" class="btn-medium btn-neutral">Sign In</button></div><div class="clearFloats"></div>
+                @if (!string.IsNullOrWhiteSpace(Model.ErrorMessage)) { <div class="validation-summary-errors">@Model.ErrorMessage</div> }
+            </div>
+        </div>
+        <div id="rightArea" class="divider-left"><div id="signUpPanel" class="FrontPageLoginBox"><p class="text">Not a member?</p><h2>Sign Up &amp; Make Friends</h2><p class="text">What is your birthday?</p><a href="/Login/Signup.aspx" class="btn-medium btn-primary">Sign Up</a></div></div>
+    </div>
+</form>
+<div id="guestarea"><h2>You don't need an account to play ROBLOX</h2><p class="text">You can start playing right now, in guest mode! <a href="/Games.aspx" class="btn-small btn-neutral" id="guestButton">Play as Guest</a></p></div>
