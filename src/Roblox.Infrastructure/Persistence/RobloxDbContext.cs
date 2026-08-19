@@ -19,6 +19,7 @@ public sealed class RobloxDbContext(DbContextOptions<RobloxDbContext> options) :
     public DbSet<UserAccount> UserAccounts => Set<UserAccount>();
     public DbSet<PasswordCredential> PasswordCredentials => Set<PasswordCredential>();
     public DbSet<UserSession> UserSessions => Set<UserSession>();
+    public DbSet<UserProfile> UserProfiles => Set<UserProfile>();
     public DbSet<RenderJob> RenderJobs => Set<RenderJob>();
     public DbSet<Universe> Universes => Set<Universe>();
     public DbSet<Place> Places => Set<Place>();
@@ -54,6 +55,13 @@ public sealed class RobloxDbContext(DbContextOptions<RobloxDbContext> options) :
                 .WithOne()
                 .HasForeignKey<PasswordCredential>(credential => credential.UserAccountId)
                 .OnDelete(DeleteBehavior.Cascade);
+        });
+
+        modelBuilder.Entity<UserProfile>(entity =>
+        {
+            entity.ToTable("user_profiles"); entity.HasKey(profile => profile.UserAccountId);
+            entity.Property(profile => profile.Gender).HasConversion<string>().HasMaxLength(16);
+            entity.HasOne<UserAccount>().WithOne(user => user.Profile).HasForeignKey<UserProfile>(profile => profile.UserAccountId).OnDelete(DeleteBehavior.Cascade);
         });
 
         modelBuilder.Entity<PasswordCredential>(entity =>

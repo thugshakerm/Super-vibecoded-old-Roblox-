@@ -22,7 +22,8 @@ internal static class AuthenticationEndpoints
         AccountRegistrationService registrations,
         CancellationToken cancellationToken)
     {
-        var result = await registrations.RegisterAsync(request.Username, request.Password, cancellationToken);
+        if (request.BirthDate is null || request.Gender is null) return Results.BadRequest(new { code = "InvalidProfile" });
+        var result = await registrations.RegisterAsync(request.Username, request.Password, request.BirthDate.Value, request.Gender.Value, cancellationToken);
         return result.Code switch
         {
             AccountResultCode.Success => Results.Created($"/api/users/{result.UserId}", new { userId = result.UserId }),
@@ -81,6 +82,6 @@ internal static class AuthenticationEndpoints
         return Results.Ok(new { userId = session.UserId, expiresAt = session.ExpiresAt });
     }
 
-    internal sealed record RegistrationRequest(string Username, string Password);
+    internal sealed record RegistrationRequest(string Username, string Password, DateOnly? BirthDate, Roblox.Domain.Identity.UserGender? Gender);
     internal sealed record SignInRequest(string Username, string Password);
 }

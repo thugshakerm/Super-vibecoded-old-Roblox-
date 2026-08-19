@@ -13,6 +13,7 @@ public sealed class UserAccount
     public DateTimeOffset CreatedAt { get; private set; }
     public DateTimeOffset UpdatedAt { get; private set; }
     public PasswordCredential? PasswordCredential { get; private set; }
+    public UserProfile? Profile { get; private set; }
 
     private UserAccount() { }
 
@@ -38,6 +39,12 @@ public sealed class UserAccount
         DateTimeOffset now)
     {
         PasswordCredential = new PasswordCredential(algorithm, workFactor, salt, hash, now);
+        UpdatedAt = now;
+    }
+
+    public void SetProfile(DateOnly birthDate, UserGender gender, DateTimeOffset now)
+    {
+        Profile = new UserProfile(birthDate, gender, now);
         UpdatedAt = now;
     }
 

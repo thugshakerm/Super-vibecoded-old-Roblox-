@@ -11,6 +11,8 @@ public sealed class AccountRegistrationService(
     public async Task<RegistrationResult> RegisterAsync(
         string username,
         string password,
+        DateOnly birthDate,
+        UserGender gender,
         CancellationToken cancellationToken)
     {
         var usernameValidation = usernamePolicy.Validate(username);
@@ -33,6 +35,7 @@ public sealed class AccountRegistrationService(
 
         var now = timeProvider.GetUtcNow();
         var userAccount = new UserAccount(username, now);
+        userAccount.SetProfile(birthDate, gender, now);
         var passwordHash = passwordHasher.Hash(password);
         userAccount.SetPasswordCredential(
             passwordHash.Algorithm,

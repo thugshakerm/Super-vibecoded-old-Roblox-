@@ -19,7 +19,8 @@ public sealed class SignupModel(IHttpClientFactory clients) : PageModel
     {
         if (Input.BirthMonth is not >= 1 or > 12 || Input.BirthDay is not >= 1 or > 31 || Input.BirthYear is null || string.IsNullOrWhiteSpace(Input.Gender)) { ErrorMessage = "Please complete your birthday and gender."; return Page(); }
         if (!string.Equals(Input.Password, Input.ConfirmPassword, StringComparison.Ordinal)) { ErrorMessage = "Passwords do not match."; return Page(); }
-        var response = await clients.CreateClient("PlatformApi").PostAsJsonAsync("/api/auth/register", new { Input.Username, Input.Password }, cancellationToken);
+        var birthDate = new DateOnly(Input.BirthYear!.Value, Input.BirthMonth!.Value, Input.BirthDay!.Value);
+        var response = await clients.CreateClient("PlatformApi").PostAsJsonAsync("/api/auth/register", new { Input.Username, Input.Password, BirthDate = birthDate, Gender = Input.Gender }, cancellationToken);
         if (response.StatusCode == HttpStatusCode.Created) return LocalRedirect("/Login/Default.aspx");
         ErrorMessage = response.StatusCode == HttpStatusCode.Conflict ? "That username is already in use." : "Sign up failed.";
         return Page();
