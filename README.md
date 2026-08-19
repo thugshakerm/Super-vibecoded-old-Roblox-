@@ -194,8 +194,3 @@ The sanitized 2013 Home footer component is now available under
 Source-derived runtime-bound Home header, news, best-friends, recently-played,
 and column components are available under `Pages/Shared/Home/`. See
 `docs/HOME_DASHBOARD_COMPONENTS.md`.
-
-## Frontend phase: 2013 Login and Signup pages
-
-Source-derived Razor Login and Signup pages now use the existing authentication
-API through the website's server-side API client. See `docs/LOGIN_SIGNUP_COMPONENTS.md`.
