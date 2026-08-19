@@ -1,0 +1,41 @@
+@model Roblox.Website.ViewModels.NavigationViewModel
+@* Structure sourced from references/Home/ROBLOX.com.htm (2013-11-06). *@
+<div class="site-header">
+    <div id="navigation-container">
+        <a href="/Default.aspx" class="btn-logo" data-se="nav-logo"></a>
+        <div id="navigation-menu">
+            <ul>
+                <li><a href="/home" ref="nav-myroblox" data-se="nav-myhome">Home</a></li>
+                <li><a data-se="nav-games" href="/games" ref="nav-games" title="Games">Games</a></li>
+                <li><a data-se="nav-catalog" href="/Catalog" ref="nav-catalog" title="Catalog">Catalog</a></li>
+                <li><a data-se="nav-develop" href="/develop" title="Develop" ref="nav-develop">Develop</a></li>
+                <li><a data-se="nav-upgrade" href="/Upgrades/BuildersClubMemberships.aspx" title="Builders Club" ref="nav-buildersclub">Builders Club</a></li>
+                <li><a data-se="nav-forum" href="/Forum/Default.aspx" title="Forum" ref="nav-forum">Forum</a></li>
+                <li class="more-list-item" drop-down-nav-button="more-list-item">
+                    <div class="more-link-container"><a id="nav-more" title="More" data-se="nav-more" ref="nav-more">More<span id="more-menu-toggle"></span></a></div>
+                    <div class="dropdownnavcontainer" style="display:none;" drop-down-nav-container="more-list-item">
+                        <div class="dropdownmainnav" style="z-index:1023">
+                            <a class="dropdownoption" data-se="nav-more-browse" href="/Browse.aspx" title="People" ref="nav-people"><span>People</span></a>
+                            <a class="dropdownoption" data-se="nav-more-blog" href="/Blog" title="Blog" ref="nav-news"><span>Blog</span></a>
+                            <a class="dropdownoption" data-se="nav-more-help" href="/Help/Builderman.aspx" title="Help" ref="nav-help"><span>Help</span></a>
+                            <div style="clear:both;"></div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        @if (Model.IsAuthenticated)
+        {
+            <div id="AlertSpace">
+                <div class="AlertItem" style="max-width:50px;text-align:center;"><a id="lsLoginStatus" data-se="nav-logout" class="logoutButton">Logout</a></div>
+                <div class="HeaderDivider"></div>
+                <a data-se="nav-tickets" href="/My/Money.aspx?tab=MyTransactions"><div id="TicketsWrapper" class="TicketsAlert AlertItem tooltip-bottom" original-title="Tickets"><div class="icons tickets_icon"></div><div id="TicketsAlertCaption" class="AlertCaption">@Model.Tickets</div></div></a>
+                <a data-se="nav-robux" href="/My/Money.aspx?tab=MyTransactions"><div id="RobuxWrapper" class="RobuxAlert AlertItem tooltip-bottom" original-title="Robux"><div class="icons robux_icon"></div><div id="RobuxAlertCaption" class="AlertCaption">@Model.Robux</div></div></a>
+                <div class="HeaderDivider"></div>
+                <a data-se="nav-friends" href="/friends.aspx#FriendRequestsTab"><span id="FriendsTextWrapper" class="FriendsAlert AlertItem tooltip-bottom" original-title="Friend Requests"><div class="icons friends_icon" style="float:none;"></div><div id="FriendsBubble" class="AlertTextWrapper"><div class="AlertBox Left"></div><div class="AlertBox" style="background-position:right;padding-right:3px"><div class="AlertText">@Model.FriendRequestCount</div></div></div></span></a>
+                <a data-se="nav-messages" href="/my/messages"><span id="MessagesTextWrapper" class="MessageAlert AlertItem tooltip-bottom" original-title="Messages"><div class="icons message_icon" style="float:none;"></div></span></a>
+                <a data-se="nav-login" href="/User.aspx"><div id="AuthenticatedUserNameWrapper"><div id="AuthenticatedUserName"><span class="login-span notranslate">@Model.Username</span></div></div></a>
+            </div>
+        }
+    </div>
+</div>

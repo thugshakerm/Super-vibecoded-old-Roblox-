@@ -177,3 +177,9 @@ receiving storage keys. See `docs/ASSET_UPLOAD_API.md`.
 The first Razor UI component is the exact archived 2013 Place Launcher status
 fragment and its sourced progress asset. It is not yet hosted by a page. See
 `docs/PLACE_LAUNCHER_COMPONENT.md`.
+
+## Frontend phase: 2013 Home navigation
+
+The raw 2013 Home source is retained under `references/Home/`; its sanitized,
+runtime-bound navigation partial is in `Pages/Shared/Navigation/Navigation.cshtml`.
+See `docs/HOME_NAVIGATION_COMPONENT.md`.
