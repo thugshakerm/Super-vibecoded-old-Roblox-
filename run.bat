@@ -8,9 +8,14 @@ echo.
 
 where docker >nul 2>nul
 if errorlevel 1 (
-  echo ERROR: Docker Desktop or a Docker-compatible runtime is required for PostgreSQL.
-  echo Install/start Docker Desktop, then run this file again.
-  exit /b 1
+  if /I "%USE_EXISTING_POSTGRES%"=="1" (
+    echo Using existing native PostgreSQL on port configured in .env...
+  ) else (
+    echo ERROR: Docker was not found.
+    echo Install/start a Docker-compatible runtime, or start native PostgreSQL and run:
+    echo   set USE_EXISTING_POSTGRES=1 ^&^& run.bat
+    exit /b 1
+  )
 )
 
 where dotnet >nul 2>nul
@@ -37,11 +42,15 @@ if "%POSTGRES_PASSWORD%"=="" set "POSTGRES_PASSWORD=change-this-local-password"
 if "%POSTGRES_PORT%"=="" set "POSTGRES_PORT=5433"
 set "ConnectionStrings__Roblox=Host=localhost;Port=%POSTGRES_PORT%;Database=%POSTGRES_DB%;Username=%POSTGRES_USER%;Password=%POSTGRES_PASSWORD%"
 
-echo Starting PostgreSQL...
-docker compose up -d postgres
-if errorlevel 1 (
-  echo ERROR: PostgreSQL could not be started.
-  exit /b 1
+if /I "%USE_EXISTING_POSTGRES%"=="1" (
+  echo Using existing PostgreSQL service on port %POSTGRES_PORT%...
+) else (
+  echo Starting PostgreSQL...
+  docker compose up -d postgres
+  if errorlevel 1 (
+    echo ERROR: PostgreSQL could not be started.
+    exit /b 1
+  )
 )
 
 echo Restoring solution packages...

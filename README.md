@@ -44,6 +44,12 @@ run.bat
 It creates a local `.env` from `.env.example` when needed, starts PostgreSQL,
 restores/builds the solution, and opens separate API and Website command windows.
 
+For an already-running native PostgreSQL instance instead of Docker:
+
+```bat
+set USE_EXISTING_POSTGRES=1 && run.bat
+```
+
 ### Manual setup
 
 1. Copy `.env.example` to `.env` and set a local `POSTGRES_PASSWORD`.
