@@ -194,3 +194,9 @@ The sanitized 2013 Home footer component is now available under
 Source-derived runtime-bound Home header, news, best-friends, recently-played,
 and column components are available under `Pages/Shared/Home/`. See
 `docs/HOME_DASHBOARD_COMPONENTS.md`.
+
+## RobloxLabs Login/Signup source import
+
+The complete RobloxLabs WebForms CSS/image source trees are now present under
+Website `wwwroot` for the Login and Signup implementation. See
+`docs/ROBLOXLABS_LOGIN_SOURCE.md`.
