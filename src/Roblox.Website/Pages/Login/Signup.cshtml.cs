@@ -10,8 +10,14 @@ public sealed class SignupModel(IHttpClientFactory clients) : PageModel
     [BindProperty] public SignupInput Input { get; set; } = new();
     public string? ErrorMessage { get; private set; }
 
+    public void OnGet(int? birthMonth, int? birthDay, int? birthYear)
+    {
+        Input = Input with { BirthMonth = birthMonth, BirthDay = birthDay, BirthYear = birthYear };
+    }
+
     public async Task<IActionResult> OnPostAsync(CancellationToken cancellationToken)
     {
+        if (Input.BirthMonth is not >= 1 or > 12 || Input.BirthDay is not >= 1 or > 31 || Input.BirthYear is null || string.IsNullOrWhiteSpace(Input.Gender)) { ErrorMessage = "Please complete your birthday and gender."; return Page(); }
         if (!string.Equals(Input.Password, Input.ConfirmPassword, StringComparison.Ordinal)) { ErrorMessage = "Passwords do not match."; return Page(); }
         var response = await clients.CreateClient("PlatformApi").PostAsJsonAsync("/api/auth/register", new { Input.Username, Input.Password }, cancellationToken);
         if (response.StatusCode == HttpStatusCode.Created) return LocalRedirect("/Login/Default.aspx");
