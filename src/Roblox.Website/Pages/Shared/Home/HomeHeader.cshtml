@@ -1,0 +1,14 @@
+@model Roblox.Website.ViewModels.HomeDashboardViewModel
+@* Source hierarchy: references/Home/ROBLOX.com.htm (2013-11-06). *@
+<div data-update-status-url="/home/updatestatus" data-get-feed-url="/feeds/getuserfeed">
+    <div><h1>Hello, <span class="notranslate">@Model.Username</span>!</h1></div>
+    <div class="left-column-boxes user-avatar-container">
+        <div id="UserAvatar" class="user-avatar-holder">
+            @if (!string.IsNullOrWhiteSpace(Model.AvatarThumbnailUrl))
+            {
+                <span class="user-avatar"><img alt="@Model.Username" class="user-avatar-image" src="@Model.AvatarThumbnailUrl"></span>
+            }
+        </div>
+        <div id="UserInfo" class="text"><div><b><a class="text-link" href="/my/messages">@Model.SystemNotificationCount System Notification(s)</a></b></div></div>
+    </div>
+</div>

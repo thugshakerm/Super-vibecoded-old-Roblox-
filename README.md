@@ -188,3 +188,9 @@ See `docs/HOME_NAVIGATION_COMPONENT.md`.
 
 The sanitized 2013 Home footer component is now available under
 `Pages/Shared/Navigation/Footer.cshtml`. See `docs/HOME_FOOTER_COMPONENT.md`.
+
+## Frontend phase: 2013 Home dashboard components
+
+Source-derived runtime-bound Home header, news, best-friends, recently-played,
+and column components are available under `Pages/Shared/Home/`. See
+`docs/HOME_DASHBOARD_COMPONENTS.md`.

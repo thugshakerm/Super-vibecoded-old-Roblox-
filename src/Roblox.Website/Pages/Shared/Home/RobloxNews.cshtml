@@ -1,0 +1,8 @@
+@model IReadOnlyList<Roblox.Website.ViewModels.HomeNewsItem>
+@* Source hierarchy: references/Home/ROBLOX.com.htm (2013-11-06). *@
+<div class="left-column-boxes">
+    <h3>Roblox News</h3>
+    <div class="notranslate text news-container"><div id="RobloxNews"><div class="roblox-news-feed">
+        @foreach (var item in Model) { <div class="roblox-news-feed-item"><a href="@item.Url" ref="news-article" class="roblox-interstitial">@item.Title</a></div> }
+    </div></div><a href="/Blog" class="SeeMore roblox-interstitial">See More</a></div>
+</div>

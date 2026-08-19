@@ -1,0 +1,13 @@
+@model IReadOnlyList<Roblox.Website.ViewModels.HomeRecentPlaceItem>
+@* Source hierarchy: references/Home/ROBLOX.com.htm (2013-11-06); all entries are runtime data. *@
+<div id="RecentlyVisitedPlacesContainer" class="right-column-box">
+    <h3 style="padding-bottom:6px;">Recently Played Games</h3>
+    <div id="RecentlyVisitedPlaces">
+        <div id="RecentlyVisitedPlaceTemplate" class="recent-place-container"><div class="recent-place-thumb"></div><div class="recent-place-Info"><div class="recent-place-name"></div><div class="recent-place-players-online text"></div></div></div>
+        @if (Model.Count == 0) { <div class="text">You haven't played any games recently. <a href="/Games.aspx">Play Now</a></div> }
+        @foreach (var place in Model)
+        {
+            <div class="recent-place-container" style="display:block;"><div class="recent-place-thumb">@if (!string.IsNullOrWhiteSpace(place.ThumbnailUrl)) { <img src="@place.ThumbnailUrl" alt="@place.Name" class="recent-place-thumb-img"> }</div><div class="recent-place-Info"><div class="recent-place-name"><a href="@place.PlaceUrl">@place.Name</a></div><div class="recent-place-players-online text">@place.PlayerCount players online</div></div></div>
+        }
+    </div>
+</div>

@@ -1,0 +1,8 @@
+@model Roblox.Website.ViewModels.HomeDashboardViewModel
+@* Source column hierarchy: references/Home/ROBLOX.com.htm (2013-11-06). *@
+<div class="content" id="MyRobloxContainer">
+    <partial name="~/Pages/Shared/Home/HomeHeader.cshtml" model="Model" />
+    <div class="left-column"><partial name="~/Pages/Shared/Home/RobloxNews.cshtml" model="Model.News" /><partial name="~/Pages/Shared/Home/BestFriends.cshtml" model="Model.BestFriends" /></div>
+    <div class="right-column"><partial name="~/Pages/Shared/Home/RecentlyPlayed.cshtml" model="Model.RecentlyPlayed" /></div>
+    <div class="clear"></div>
+</div>

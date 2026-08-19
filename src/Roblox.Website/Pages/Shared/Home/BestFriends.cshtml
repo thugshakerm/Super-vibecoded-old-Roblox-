@@ -1,0 +1,11 @@
+@model IReadOnlyList<Roblox.Website.ViewModels.HomeFriendItem>
+@* Source hierarchy: references/Home/ROBLOX.com.htm (2013-11-06); all entries are runtime data. *@
+<div class="left-column-boxes">
+    <div><h3 class="best-friends-title">My Best Friends</h3><div class="edit-friends-button"><a href="/my/EditFriends.aspx" class="btn-small btn-neutral">Edit</a></div><div class="clear"></div></div>
+    <div id="bestFriendsContainer" class="best-friends-container"><div class="best-friends">
+        @foreach (var friend in Model)
+        {
+            <div class="user"><div class="roblox-avatar-image" data-image-size="tiny"><div style="position:relative;">@if (!string.IsNullOrWhiteSpace(friend.AvatarThumbnailUrl)) { <a href="@friend.ProfileUrl"><img title="@friend.Username" alt="@friend.Username" border="0" src="@friend.AvatarThumbnailUrl"></a> }</div></div><div class="info">@if (!string.IsNullOrWhiteSpace(friend.PresenceIconUrl)) { <img src="@friend.PresenceIconUrl" alt=""> }<a class="name" href="@friend.ProfileUrl">@friend.Username</a>@if (!string.IsNullOrWhiteSpace(friend.Status)) { <div class="status">@friend.Status</div> }</div><div class="clear"></div></div>
+        }
+    </div></div>
+</div>
