@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+body { margin: 0px; }
+
+body.banner { text-align: center; }
+
+a { font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: gray; text-decoration: none; }
+
+a.ad { display: inline-block; }
+
+body.other a.ad { display: block; }
+
+a.ad img { display: block; border: none; }
+
+a:hover { text-decoration: underline; }
+
+body.other a.report { display: block; }
+
+body.banner a.report { position: absolute; top: 78px; padding-left: 4px; }
