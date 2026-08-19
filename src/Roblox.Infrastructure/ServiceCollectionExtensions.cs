@@ -40,6 +40,7 @@ public static class ServiceCollectionExtensions
         services.AddScoped<ISessionStore, EfSessionStore>();
         services.AddScoped<AccountRegistrationService>();
         services.AddScoped<AccountSignInService>();
+        services.AddScoped<IAccountProfileService, AccountProfileService>();
         services.AddScoped<ISessionAuthenticationService, SessionAuthenticationService>();
         services.AddSingleton<IPrivateObjectStorage, LocalPrivateObjectStorage>();
         services.AddScoped<IRenderJobStore, EfRenderJobStore>();

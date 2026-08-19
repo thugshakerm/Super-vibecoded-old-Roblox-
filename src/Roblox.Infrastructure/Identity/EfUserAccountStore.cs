@@ -8,6 +8,9 @@ namespace Roblox.Infrastructure.Identity;
 
 public sealed class EfUserAccountStore(RobloxDbContext dbContext) : IUserAccountStore
 {
+    public Task<UserAccount?> FindByIdAsync(long userId, CancellationToken cancellationToken) =>
+        dbContext.UserAccounts.Include(user => user.Profile).SingleOrDefaultAsync(user => user.Id == userId, cancellationToken);
+
     public Task<UserAccount?> FindByNormalizedUsernameAsync(string normalizedUsername, CancellationToken cancellationToken) =>
         dbContext.UserAccounts
             .Include(user => user.PasswordCredential)

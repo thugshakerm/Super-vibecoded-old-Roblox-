@@ -81,5 +81,6 @@ app.MapGet("/api/status", () => Results.Ok(new { service = "Roblox.Api", status 
 app.MapAssetDeliveryEndpoints();
 app.MapAuthenticationEndpoints();
 app.MapAssetUploadEndpoints();
+app.MapAccountEndpoints();
 
 app.Run();
