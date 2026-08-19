@@ -4,6 +4,7 @@ using Roblox.Website.Security;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddHealthChecks();
+builder.Services.AddRazorPages();
 builder.Services.AddOptions<PlatformApiOptions>()
     .Bind(builder.Configuration.GetSection(PlatformApiOptions.SectionName))
     .Validate(options => Uri.TryCreate(options.BaseUrl, UriKind.Absolute, out _),
@@ -18,6 +19,8 @@ builder.Services.AddHttpClient("PlatformApi", (services, client) =>
 var app = builder.Build();
 app.UseExceptionHandler("/error");
 app.UseWebsiteSecurityHeaders();
+app.UseStaticFiles();
+app.MapRazorPages();
 app.MapHealthChecks("/health");
 
 // Historical Razor pages and the shared late-2013 shell are deliberately not

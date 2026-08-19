@@ -171,3 +171,9 @@ and quarantine storage keys are modeled. See `docs/ASSET_UPLOAD_INTAKE.md`.
 
 Authenticated creators can now request private upload intake records without
 receiving storage keys. See `docs/ASSET_UPLOAD_API.md`.
+
+## Frontend phase: source-approved launcher component
+
+The first Razor UI component is the exact archived 2013 Place Launcher status
+fragment and its sourced progress asset. It is not yet hosted by a page. See
+`docs/PLACE_LAUNCHER_COMPONENT.md`.
