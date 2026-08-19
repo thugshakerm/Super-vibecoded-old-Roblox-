@@ -17,6 +17,11 @@ public sealed class AssetUpload
     public string? FailureCode { get; private set; }
 
     private AssetUpload() { }
+    public void MarkUploaded(DateTimeOffset now)
+    {
+        if (State != AssetUploadState.Created || now > ExpiresAt) throw new InvalidOperationException("Upload is unavailable.");
+        State = AssetUploadState.Uploaded; UploadedAt = now;
+    }
 
     public AssetUpload(long creatorUserId, AssetType assetType, string fileName, string contentType, long maxLength, string objectKey, DateTimeOffset now, DateTimeOffset expiresAt)
     {

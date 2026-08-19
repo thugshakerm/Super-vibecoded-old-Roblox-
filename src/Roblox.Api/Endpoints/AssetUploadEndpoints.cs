@@ -12,6 +12,7 @@ internal static class AssetUploadEndpoints
         var group = endpoints.MapGroup("/api/assets/uploads")
             .RequireRateLimiting("public-api");
         group.MapPost("/intake", CreateIntakeAsync).RequirePlatformSession();
+        group.MapPut("/{uploadId:guid}/content", UploadContentAsync).RequirePlatformSession();
         return group;
     }
 
@@ -42,6 +43,17 @@ internal static class AssetUploadEndpoints
             expiresAt = upload.ExpiresAt,
             maximumContentLength = upload.MaximumContentLength
         });
+    }
+
+
+    private static async Task<IResult> UploadContentAsync(Guid uploadId, HttpContext context, Roblox.Application.Identity.IUserAccountStore _, IAssetUploadStore uploads, IPrivateObjectStorage storage, TimeProvider timeProvider, CancellationToken cancellationToken)
+    {
+        var session = (AuthenticatedSession)context.Items[typeof(AuthenticatedSession)]!;
+        var upload = await uploads.FindAsync(uploadId, session.UserId, cancellationToken);
+        if (upload is null || context.Request.ContentLength is null || context.Request.ContentLength > upload.MaximumContentLength) return Results.BadRequest(new { code = "InvalidUpload" });
+        if (!string.Equals(context.Request.ContentType, upload.ExpectedContentType, StringComparison.OrdinalIgnoreCase)) return Results.BadRequest(new { code = "InvalidContentType" });
+        try { await storage.PutAsync(Roblox.Domain.Assets.ObjectKey.Create(upload.PrivateObjectKey), context.Request.Body, upload.ExpectedContentType, cancellationToken); upload.MarkUploaded(timeProvider.GetUtcNow()); await uploads.SaveChangesAsync(cancellationToken); return Results.NoContent(); }
+        catch (InvalidOperationException) { return Results.BadRequest(new { code = "ExpiredUpload" }); }
     }
 
     internal sealed record AssetUploadIntakeRequest(AssetType AssetType, string FileName, string ContentType);
