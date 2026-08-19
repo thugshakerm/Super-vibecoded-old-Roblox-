@@ -1,0 +1,721 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://web.archive.org/web/20120930012238/http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js
+Subject: Wayback Machine
+Date: Tue, 18 Aug 2026 22:06:18 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--mxcIVRdAcPFtyUVAShm8t1JDe4xn0V83cRtKWixu1D----"
+
+
+------MultipartBoundary--mxcIVRdAcPFtyUVAShm8t1JDe4xn0V83cRtKWixu1D----
+Content-Type: text/html
+Content-ID: <frame-A93636F54465C1B291A0B92AD45D9E96@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20120930012238/http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js
+
+<!DOCTYPE html><html style="--wm-toolbar-height: 67px;"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Wayback Machine</title>
+
+
+
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3">
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv">
+
+</head>
+<body style="height:100vh;overflow:hidden;margin:0;display:flex;flex-flow:column nowrap;align-items:stretch;">
+<div style="flex:0 0;">
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+
+<div id="wm-ipp-base" lang="en" style="display: block; direction: ltr; height: 67px;" toolbar-mode="auto"><template shadowmode="closed"><div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;height:0;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="cid:frame-74E5EF5A7203A87EA43D5253CFC3C050@mhtml.blink" scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;" nav="async">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="https://web.archive.org/web/" title="Wayback Machine home page"><img src="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png" alt="Wayback Machine" style="width:100px" border="0"></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="https://web.archive.org/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js" style="flex:1;" autocomplete="off"><input type="submit" value="Go">
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;"><a class="t" href="https://web.archive.org/web/*/http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js" title="See a list of every capture for this URL">5 captures</a><div class="r" title="Timespan for captures of this URL">23 Sep 2012 - 30 Sep 2012</div></div>
+        <div class="k">
+          <a href="https://web.archive.org/web/20120930012238/http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="775" height="27" border="0"></canvas>
+            <div class="yt" style="display: none; width: 25px; height: 27px;"></div><div class="mt" style="display: none; width: 2px; height: 27px;"></div></div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="b" nowrap="nowrap">Aug</td>
+            <td class="c" id="displayMonthEl" title="You are here: 01:22:38 Sep 30, 2012">SEP</td>
+            <td class="f" nowrap="nowrap">Oct</td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20120926220103/http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js" title="22:01:03 Sep 26, 2012"><span class="ta"></span></a></td>
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 01:22:38 Sep 30, 2012">30</td>
+            <td class="f" nowrap="nowrap"><span class="ta"></span></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="b" nowrap="nowrap">2011</td>
+            <td class="c" id="displayYearEl" title="You are here: 01:22:38 Sep 30, 2012">2012</td>
+            <td class="f" nowrap="nowrap">2013</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="https://web.archive.org/web/20120930012238/http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js#" title="Share via My Web Archive" style="display: none;">
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in" style="display: inline-block;">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web" style="display: none;"></span>
+        </span>
+                <a class="xxs" href="https://help.archive.org/help/category/the-wayback-machine/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+        <a id="wm-tb-close" href="https://web.archive.org/web/20120930012238/http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="https://web.archive.org/web/20120930012238/http://web.archive.org/screenshot/http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js" id="wm-screenshot" title="screenshot" style="visibility: hidden;">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="https://web.archive.org/web/20120930012238/http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+        <a id="wm-share-facebook" href="https://web.archive.org/web/20120930012238/http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js#" data-url="https://web.archive.org/web/20120930012238/http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a id="wm-share-twitter" href="https://web.archive.org/web/20120930012238/http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js#" data-url="https://web.archive.org/web/20120930012238/http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="https://web.archive.org/web/20120930012238/http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js#expand"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+        <div id="wm-capinfo-notice" source="api"></div>
+                <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/webwidecrawl);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/webwidecrawl" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the <a href="http://archive.org/web/web.php">Wayback Machine</a>.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/liveweb)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/liveweb" target="_new"><span class="wm-title">Live Web Proxy Crawls</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Content crawled via the <a href="http://archive.org/web/web.php">Wayback Machine</a> Live Proxy mostly by the Save Page Now feature on web.archive.org.
+<br><br>
+Liveweb proxy is a component of Internet Archiveâ€™s wayback machine project. The liveweb proxy captures the content of a web page in real time, archives it into a ARC or WARC file and returns the ARC/WARC record back to the wayback machine to process. The recorded ARC/WARC file becomes part of the wayback machine in due course of time.
+<br>
+	</div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="https://web-static.archive.org/_static/images/loading.gif" alt="loading"></div>
+    </div>
+    </div>
+  </div></div></div><link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3"><link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv"><div class="wb-autocomplete-suggestions "></div></template>
+</div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20120930012238/http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js</div>
+
+<!-- END WAYBACK TOOLBAR INSERT -->
+ </div>
+<iframe id="playback" src="cid:frame-7C99ECFB2154455EF23C3A75E465AD11@mhtml.blink" frameborder="0" style="flex:1 0">
+</iframe>
+
+
+</body></html>
+------MultipartBoundary--mxcIVRdAcPFtyUVAShm8t1JDe4xn0V83cRtKWixu1D----
+Content-Type: image/gif
+Content-Transfer-Encoding: binary
+Content-Location: https://web-static.archive.org/_static/images/loading.gif
+
+GIF89a  ã    333LLLfff€€€™™™²²²ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ!ÿNETSCAPE2.0   !ù
+  ,       SÉI«½ ÌµæSHÞ†Ç%Š¤‰¢Ö:VoÏî” ðÃÄçƒâs&—F'7`
+…KµjÁb-[+‚@x³`1™lFƒÖåé„-—G  !ù
+  ,       SðÉI«½/Ìµæ“ HÞö À%Š¤‰¢Ö:VoÏîÔ0ð‡ÃÄçƒâs&—F'G `†KµjÁb-[ë£Px³`1™lFƒÖåé„-—G  !ù
+  ,       SðÉI«½OÌµæÓ0HÞöÁ%Š¤‰¢Ö:VoÏîAð ÀÄçƒâs&—F'W(`‡KµjÁb-[ëÃ`x³`1™lFƒÖåé„-—G  !ù
+  ,       SðÉI«½oÌµæAHÞöÂ%Š¤‰¢Ö:VoÏîTQðÀÄçƒâs&—F'g0` €KµjÁb-[ëãpx³`1™lFƒÖåé„-—G  !ù
+  ,       SðÉI«½ÌµæSQHÞöÃ%Š¤‰¢Ö:VoÏî”aðÁÄçƒâs&—F'w8`KµjÁb-[ë x³`1™lFƒÖåé„-—G  !ù
+  ,       SðÉI«½¯Ìµæ“aHÞöÄ%Š¤‰¢Ö:VoÏîÔqðƒÁÄçƒâs&—F' `‚KµjÁb-[ë#x³`1™lFƒÖåé„-—G  !ù
+  ,       SðÉI«½ÏÌµæÓqHÞöÅ%Š¤‰¢Ö:VoÏî ðÂÄçƒâs&—F'`ƒKµjÁb-[ëC x³`1™lFƒÖåé„-—G  !ù
+  ,       SðÉI«½ïÌµæ HÞöÆ%Š¤‰¢Ö:VoÏîTð…ÂÄçƒâs&—F''`„KµjÁb-[ëc0x³`1™lFƒÖåé„-—G  ;
+------MultipartBoundary--mxcIVRdAcPFtyUVAShm8t1JDe4xn0V83cRtKWixu1D----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png
+
+‰PNG
+
+   IHDR   È   G   B¾“   sBIT|dˆ   	pHYs  #  #æZ²™   tEXtSoftware www.inkscape.org›î<  ÉIDATxœí{x\U¹ðïÚ“¤-åÒrim3;3i¸H¡+(‡¢ÈS‘KåpDí9zð> à'
+ç¨(`ZD9çˆòô|\´)AªIffOZ
+¥ôB›döz¿?&Iç>“kÌïyöóÌ^ë}×Z{ïy÷ºìµÞ%¡Pè(T¯ÕCP}Òøþ:7lˆ3@]]]•ßß9ªÿÕã;âñÎÁø°ë¶à8ß‰D"ëH¡¦¦&lTŸ^Dd?T€>DªˆFwÊ‡ª«Š1W' 1ào@°0¡º oÈHÿ8£z5ðT=…v1f&ðçH,và§ÊÏš5k¯½ªª¾¢°ðû­ýPww÷úÁøÚ`ðÆÚK:Ö¯ïNÕ‡Ã5øþ¿  o©êjQàh¹ª+{(U~žë6ZÕß
+´Z‘Y‡ÏŠªQ¨Äã5Œ‚p0xÆÜŒêÁjLc4’Ÿ5kÖ^S«ª.‘¯ º˜
+üÝŠÜ‹Å"EótÝOßÞÕ„Š„~Ùåy7ä’¯›;·Úwœ+ÓQ}8_1Wëº7YÕºh<~N¾üêfÏ>Ð¯ªú&ªg×wyÞÓYå
+‡kH$®Dä|ïò¼SãkƒÁËÔ‰Äbwä¹®æëªX­ðð`gÄóN0Ñhtµ±ö) QT™j ½‘XìVDÚ_ä©ñ¢:Ý÷}'3sU*"WF<ïL3ÔÚïF<ïSÀMÆ˜ªTùhw÷JU½s@î_#ž×ñ¼Oßu§23ýX,öœˆü˜!Æ\Ç?ëX{9ª×‡\÷Û™ò===;n`"ÆÜ”V^‘½mU•ÉÔ‹D"±wz{¯f(ü&Ÿñ¼%VätUÝ+SÞ&Ã¾ØŸ-ð`†±viW<~*ÉóQ‰ÇŸBõu`_ñýÏ“ïééÙõ¼›TõuTÿ2x_Eõ £úø"Ò¯uÝ+ü:ây§tÅã§‘/«È?äÓéX¿¾»Æó¾Ì!ù’B¡VDêåÙ±qã&¹¨Ux"—q@òÙDâñË¨Š|>3^E>×ïû¿Ë—OÄóZP}ØoêÞ{/¸7'(¬”Iþ!ŒéÐŠŠ¾|‰	ìBõ[Àé¡êêÅ….Àó¼un,Ö’+î]»îêêêÚ–îÓ "v0¬ßÚûößÿõ™² ªÚ?ðc+À@Í¶Nà#Š¶øWàü‡_”êêê> Qª•b±Øk•S§>œ)[?‰Çÿœ+ÊiÓn.%¿B¸®;8 ø"–ª'Ðl8µ*òG ìÕÖÎ)¤§ð`W ²òîÁ°ÎXì	_Ò[	’÷zD$‰> 3øŒ—ñç¨R;VÎ¶¥¶rêŠôÚÞÞ>ôß¯š:u¨fÌzcÂŠ¬þCŒ¹­¾¾>ë­ž¿"y“²èééÙØ\q©Ì;wÿ
+ÇùBkkkÑ›‡gu/’s¬],ÓdÍ–Uû•€	ƒW¯[·.ËÈW$¯9çµå’vÆªç*´X‘{ƒÃÕÕaRÇ¯»]]
+J‰†êÚŽŽŽÞÔà®Xì×#ÌwÌ	ôõ= ô«ÈçÃ|cÎ§ˆç"ìºKz{{çžË@ œ¾¾«Y;¶m[:\ÝRQ‘¯…]÷î
+ÇY)ª•‡¥a×½O}ÿqD~´+‘ø·b:&‘¸8¤6¼¤ä‚‰œvÝ»Ã®û¿ˆœT²Þ""çaÌƒ±XìO@‘JVVm»îOC®ûp€Y¼"ÏK,Eg&"ÛGQàÅa×m<€8­<tlÜ¸	x‘ó+ P=}ÚÎY5|¾R<×û€ÿDbèå?léØ¸q“Â5ßƒ«ç‘"ª·G<ïÒ@eåÙQL^UïHM pû†Þ)¦Ó¹aCÕTäú¹sçî_RÁTÿ'ây—F<ïž)Ig™W]]Lq¬;Ïuþ‘Ïý)Š!ò#òs‹êã±X¬`M€ê›3G\hÕ?´í›#ž×<?â´
+f£¿BõÀ·Þxã555G¯µoÚTªaëÀs½ øBjÄ° êyw 	ˆÜX\zätttlÄbEÛíFd»TT|Píï¿®Ôôªª[€Í•@É:h—ç]3LQ£Æ\ ¬öádNVèößüúëŸ,1‰þÎXìYTÿSE¾SÒ‹A$¦pØ¡‡º÷hÊ>î8Îï€·­µŸ5ªç	Ü7’d"ž·<ÒÝÝ6xžf ª*%¦ãÛäpéçTdþH
+R*®ëÎ˜çº…:Ý tvv¾ŽÈ÷.WW7”’vGGG/ªW z)PWTÁ˜´ûSëº§—’Ï!
+gô[»4êy7×Ï«™˜ÊÊ«Så8ß)š©Èo€i½;w~!3j8y—Áÿ¢fÜó|D£Ñ]*ò[98±ËóžiÞ555ŸdÀ6L}}}¥ªÎ0ª(±V‰ÅbOËHå)"rVØu›Â®ÛdToQ‘Ù¥èM›>ýv c~PTx€H<þˆ$‡úŠæ!ªÇ‡]·9ìºM!×½
+øx©ùŒ–p0x°ª»»{gj¸&;¢§‡B¡ýJM«³³óu….«;÷B²]±ØˆÜ)ps­ëþ°¶¦æ!×ýnØuÙ•gªÔÚµµµû–¢ç$ïÅ4d|+‚	¹î¥a×mªÏ3ÖÞÀÀ@K`ÇŽxxZU™7gÎÜÌo! 7‹HúG%Çù*¾¿¼²²²;S>•>ß_YaLs"ùñ/?À+ô÷7kj¾"ìóýÜíVÇiÃ÷›ÕqÖ´··÷¹®{¦õsæÌ™–«/¢Ö^_ÕÛÛ“V>Õ/Vˆ¿k×®7reÓÚÚê‡]7½\QÇùS¡ËñáÏ4OéíÝXH®¬1›Œ1ÿ'3¼jêÔûûvîÜL)’ÄUCÆ¨¬¼Íïëë2ŽS¬ÿ¢‘XìËóª«¨Ž³PUGäéýý·+³ªþ³#’ùÌ
+Ì(¤…¦k·
+|BDH$s·‹å×‹­»n“/RrÿÐXû€óò`5¥"	 ë>—)S¦L™2eÊ”)S¦L™2eÊ”)S¦L™w%ãú5´L6-õÇÍÄô.É7"k–´µ®Üe*“Ÿ‚‹eÊŒ=Fz«UäîÌpn†e ¡`ð\¹ø É™ ÅfAlAdªwF<ï—ÃÉëýJà¡†Æ~æ,+›Ø§rÛ{?˜­¡}S|Lo8+Îö®knoùÔè²¬¡ñ2EÏÊ+}F´+OÛùö£§f¬kx·vÝ»Ò§ê'ÙÕ…ÀÂZ×­ïò¼oŒCÑ
+o!eþž¹¡3{b¢ËQ*Ï‹Hút£wëö¾;$¹@*Ip¹5}o‰Hö‚™öàÙÁÓ'-
+lÚ¼ýTNAmL%hÂË	xðüWVöd¥199_¼ª€pù;ÓöýkËüc.h^³ê…±ÈwOÏ Û8Þzid,sÍ…Â¡Pèh4ºzŠ˜Y 0´–Fá?'2ÿá2¢éî¥ÐÒpÌ¡olÞ¶ZÐß£úe3@
+ÜVaÑåó¿4^ùçBáQýÃÃGUòÄ¾ÉˆÀ?¥¨Þñ¼}"ž7Õ_eÄý8âyâTVN‘Ô	†F¬=üK;6ÔÖÖî[ëºXJ;aŒK¤¥¾~ºAÿG¡ÐÅLQå'-Ç¼ÑÜ¶jyRïØÙŽaZªHïö3gnÞüæ73­ÛöÚðùèŠá®{Þ?a%À=ÃÔ›4X‘CÒÚÄ"+(2{µ£££7ìºO ŸI	Î¹, ººz®ã8‡Õ€-V¤£ï'ãEuuõ\M$^òElØu??Q}¨q1	Lù¼jAãØ-‹~X Ž½ËÂ§Ó%nÞ¼óJ+¶3SwŸ½ß>øy’N r¢?Ò]í¨œHiijrš—-Î”éQóÀÑGÏ	XóÕ¬+Ï5­]õûÁSÉxnnˆŠ#¢hšhÚË¨¶ºú`5æNàc¨µ.Œ*!×}Vç²H$²&3ÙPuõ‰³H`ŽÀNQqœ‡#‘H¬¤r!±ö Áâ¼{ËI97ƒ®91#üà–†…›Û^ë7”mZ»êÑ–†ÆvÉ0›)ÜrôÑŠo.ÎjX×uÀ²†Æw€õ¸çœ¶Ö—Æ¸Œi88µÙgÃÀï³5ÆŽysæ­1Ï9W
+ï?
+…ŽF£¯„B¡ýÄÚå¤¬‹Q¾øþ­!×ý÷¨ç]=\”ººº}ÇÑLçÑhôùP0xžˆœ®ð·i;wÞ
+0oÞ¼ƒúûû§§ˆ¾åyÞ[¡P($Ö)ªÓEõÅÎîîŽ\—TSS³Ø¨^Ô)ì'°ÕÕ¨þtpUá¸ˆŠì/Ù÷ä¿ó}A_ËŒpŒ LX.HÚòÑ–ùŸåÀ¬ÑiÀÁš<.YÖ°àú¦¶—²BüjáÂ}ªvúg¢Z'Ff)v*1•Äï›×¬)èvf² À·H1õVõO"²˜Ý‹â¦‹µÿœ€ïßHê¢±> "©Žøf¸¦f}$ûqÞ|U!×½FàR¿¯ï>vÝ§ß?/Õ‰_4H[¤¥‰ÄíNj“Qäa×bí9€QTÄ×Ô|#‹Ýš¢jÂ®ûsT‡Vb¼Ïç!òD¾rÝ¯G=ïöqë¤g"Ðo­ö ±h©?v¶(“m™8 ×.;rAšƒ²e—UíLüôßQÕKP¹
+¸C4[vä‚»ZŽ;nê¸]À¡ð±´sÕó£ñøE>|"Côcô~("ç¦„?óNoïL±öPà­”„¾^$ë®%éÑpZÇIkBÕÖÖî;xäu9¥z9ÐDúà“ƒêóæÌ	„]÷b’ž2‡4Ùí3Àøa8<aÂ¤4Gµ3Þˆ£_!éˆ­D¹îÚÐÒpÌEÀd´åSp¹Tvô½>Ê¥ÕªNUÕJ Ïó^%Ý5Ð¾ ýUUGâSLayOOÏŽ®îî¿©ß5BÎîò‘sÉ¶Â¢êêê™lzi"±eðØ±m[–ÅòùjØ@`QÊyæù…ÏÛ‘«RÂDaé¤2=ƒæ^W.ú,Éo™TðÈÆú–úúJA¿Wb&K–uÌ¢pÐÑÑ‘ÏYŸ ˆµ•©i-…L7³é©É&D¾OÒ¿AZLE)Ž4RQõPý´ˆ,Òú1š^C™ò»·Æó ´rÊ”»Ò‹&Ç•r:¦ˆ=ì‡–De6©G‘£Y¦È‘Ë°l¾/ýïoÄÚk"±Ø·"ž÷ ­ªÀðþŸÆÜ‰ÇéŠÅR‘L¯Š©ÃF©}ï¾=}úôÌOû”$Ï„Í-[öÛEŠ“ƒ4GÉíñ1a/*Ù3P‚9ÄË3èŒÁŠHÖ ÎpMéãªŽÚQ “Ê@ÄN|d¤Hb‚Íº5å™ÓE±Ù÷mO3©¤L™ÉFÙ@Ê”)Àä2R§L”)3AL.)Sf’Q62e
+P62e
+0©Ds–)³'Ÿõ ªÛ”	k€jÎieÊLjÆÅ@šÖ¶æÜXæÁ#'t¹d™2£eR5±„ò0o™ÉÅ¤22e&ãî8î¡#­õñg R]âêË2ïbž—ô—ïpkLÆÍ@ZŽ9ôçûaš§W6ŽI‹È÷Tu¯”?¬¨çÝÜ6úBíyÆÅ@~}ä‘3}ÈrÕSA'Â†»eð·ƒœ‘P›µ ']ÑWßÐ8¢ô+{§~j{åÖ´{[áÛ|Š£äÜ;q,)´nüýÌ¸H%•—0\ã'1™/Cydð÷Ùm«^É§›{µTq>½î™mÅ¥JFúHq±2ãÁ¸tÒU¤è¾æÁýG,œº %Èù~ûšÖ;öX¡
+¡š¹¦Z®owCeò3^}ûZë#ªz£ˆy6;n ‹Žá²¢Ê
+“Ø@ÊK@à¯¢rïµ{`O*”K½4-LäÎ%kVMè–Ä®ëÖ LÊJK}o“1aÛˆ˜"²UuBÿ›i5¤Âá*ö™‡œÓÚú÷Ô¸hœç8œÕ&é7K”8¬í/XõËË«hkýâxg^WWWå÷õÝ4•‡Rvó~Üd¶MèR`ÈƒaËüc.Õ»Q¦"2Ôe™$”‹—Ío\Ö´¦õ±ñÌ$Ñ×·T’>¥FM¨ºz±3ÔxÞOÇ"ÝqbzØu7lÞ´)+òýh `¥~ðçoëžï«ÞC~ŸJ“ ]Œ«hÎx!ÄQýˆø
+W2Œþªs9pÚÀ©“Ù@Èë·kR}I/Ù	s©é)×‘Ë3‰0äéÐ7òU&qüEU_ÌiÍ¸o×á7
+¬==_Ùåyßd2öÙ&ˆ÷tb«½NÖuœWHä˜±Î·¥¡ñkF$mw.µöù¦µ/åÝ,F…‡äa­c]ž‘ðN–7ý÷(Ûý<Ÿ$Œ1úž6 …D‘!˜½söÛÀì
+“¸	¸p¸yŠrª¢§¤ÊŠì¦äcÅ¾o_Ö{
+õ<ï­|‘“ª‰5™ØV•Ø¼§ËPfÏ3>¦Ð,ÃSÕ“Q¦QO®(|ß¹—™„ŒW+ž#¬ÑÚÂjåõ ïAÞ5Ï´±±±bó¦MiËŽKKD7"½œ7SŽ²ô/m™Êì1&Ýž0E˜‘zÆ¡MóÊš—–“{Ë°¾#oç;ä‡#-‹ä˜¼¢Lìçü÷"jLúsTÝ'å,uØ<§ðw’ž¹)d@UŒFr˜ ý ×‚}ræÞKÞØ¼m)pðUbýoª˜+Utfªžo5¹»Ð6–²y­óKš²i}
+¹±Ì00Æ¼Šïûn¢#òO¡Pè!cí
+©“UÿºG
+8F^HñŠÂçŒðñ\ÿU¹6gó~CÿßONZ±"Ü2p¤r.yèóW˜ÄdOvÜý †Šä^ã ’Âd‰ëì²’]Œº@0Ç½+TsN:¦Nz °£¶¶v_M$²î}$é	»îýìÞÊ¬N¬ýKŽë¾o\:Î$ç²‡*…PÈµªòØY«WoÉ/ó_YÙãøöD…?±ûÕ|i4éfÐC€{SÎsÞìíS¦Pà»Ho9ö&ô…Ã3Ãò®;™$lO=ÕŸÔÔÔ|R‰‘§îTV^®ð‡¼)ªÞñ¼É¹´`7…^¼ÖìÒþÿ¬UÊV+F•Æ g·¿¼¦¹­u±îU¹_ïÔÀ¾Mm­óyj,ÒºÕ˜ÅÍ­­©M¬œmä¾ª]j»³ÛÚ^GåóÝ‚cïF9'iOP]lTÿ üc>ŽŽŽ­QÏ;k
+\ênCä
+ŽˆÄã3ÓT:::¶9}}ó‹Q&™úÌ§ÕÔÔ„Þêé9,CîÀ?¶µíøía:)Q™¸[³þÈV«cíEg·¿<ªÝ –5,X*b’oßwú™,kh|Q¡ (t“ŠÆÛ¨lPìSØÞû›ÛÚÓÞ”(¯"šC¯èü§€“øJÂ:!à£
+·UEÏk~ùåì©¢“µöˆœFrçÝˆ´¡ºô~E‘îî€Æ³x7Žåý{øÔà‰Q}<ìºÏjÊ~ï ¢Ú 8ûµÞ–´ÌŸ?*>&ª³Ð"m~áMUV6¯m]í“‚Âi¨žœºEj¦¶Ö\}‘ŸÁÈö<kõê-O.ZtÒ››·}V•óE8\a6É$»Mÿ®óV¯ŽŽ¬lG$ª6<‘‹ª5ù¢\¹s×®[§VU],Ð ï‰‹Fõj+r0} (<p¤Òçs}ÚèÕÀ¦÷{°S%YYAæçå’¶õ{ÓÚU.kh¼ÈµŸw7P]H`0âGQ¬ö¾æè´,“¾Ø[·“#.H_ã.ò3ÑÝ{$Ú”æ‘ó(ªCN,<7gíDnÚ]¦&Û¯²÷W„Û‹]×»‰Îxü•P(t‚Xûcr×Œ/«µÿëî~nRMVa-Ê©©aÉ¯^“CÜ:¦·c,òmjk½bÙ‘Ç<…èWQGd½ªý™ã˜v«úµ¬rú#ß ²¹½½è* R(€H,vk^åXì!à¡œqñø‹@î)õÇ_¡o&Ö÷‡æ¼©1Ï’²§I$Þ,”UHJÓZaÃàoWIõ»¡šÖˆF£«ÖÖÖº$+ÌxK‰u6ÄSÒ™<<xDã<Ç°v¯×È‹°¬iMkóø—ªÌû™I5›÷3¯´v¢\H®}ÆÓYÙgû.-"S¦Ì¨™T5È Ë:ê`µÎ%À)À’k66‚¾Š²ì€ý÷¹o í_¦Ì¸òÿÔ!§lÄÖQn    IEND®B`‚
+------MultipartBoundary--mxcIVRdAcPFtyUVAShm8t1JDe4xn0V83cRtKWixu1D----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv
+
+@charset "utf-8";
+
+@font-face { font-family: Iconochive-Regular; src: url("../fonts/Iconochive-Regular.woff") format("woff"), url("../fonts/Iconochive-Regular.ttf") format("truetype"); font-weight: normal; font-style: normal; }
+
+[class^="iconochive-"], [class*=" iconochive-"] { speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1; -webkit-font-smoothing: antialiased; font-family: Iconochive-Regular !important; }
+
+.iconochive-Uplevel::before { content: "â†µ"; }
+
+.iconochive-exit::before { content: "ðŸš£"; }
+
+.iconochive-beta::before { content: "Î²"; }
+
+.iconochive-logo::before { content: "ðŸ›"; }
+
+.iconochive-audio::before { content: "ðŸ•¨"; }
+
+.iconochive-movies::before { content: "ðŸŽž"; }
+
+.iconochive-software::before { content: "ðŸ’¾"; }
+
+.iconochive-texts::before { content: "ðŸ•®"; }
+
+.iconochive-etree::before { content: "ðŸŽ¤"; }
+
+.iconochive-image::before { content: "ðŸ–¼"; }
+
+.iconochive-web::before { content: "ðŸ—”"; }
+
+.iconochive-collection::before { content: "âˆ‘"; }
+
+.iconochive-folder::before { content: "ðŸ“‚"; }
+
+.iconochive-data::before { content: "ðŸ—ƒ"; }
+
+.iconochive-tv::before { content: "ðŸ“º"; }
+
+.iconochive-article::before { content: "ðŸ—"; }
+
+.iconochive-question::before { content: "â°"; }
+
+.iconochive-question-dark::before { content: "?"; }
+
+.iconochive-info::before { content: "i"; }
+
+.iconochive-info-small::before { content: "â“˜"; }
+
+.iconochive-comment::before { content: "ðŸ—©"; }
+
+.iconochive-comments::before { content: "ðŸ—ª"; }
+
+.iconochive-person::before { content: "ðŸ‘¤"; }
+
+.iconochive-people::before { content: "ðŸ‘¥"; }
+
+.iconochive-eye::before { content: "ðŸ‘"; }
+
+.iconochive-rss::before { content: "âˆž"; }
+
+.iconochive-time::before { content: "ðŸ•‘"; }
+
+.iconochive-quote::before { content: "â"; }
+
+.iconochive-disc::before { content: "ðŸ’¿"; }
+
+.iconochive-tv-commercial::before { content: "ðŸ’°"; }
+
+.iconochive-search::before { content: "ðŸ”"; }
+
+.iconochive-search-star::before { content: "âœ½"; }
+
+.iconochive-tiles::before { content: "âŠž"; }
+
+.iconochive-list::before { content: "â‡¶"; }
+
+.iconochive-list-bulleted::before { content: "âŒ—"; }
+
+.iconochive-latest::before { content: "âˆˆ"; }
+
+.iconochive-left::before { content: "Ë‚"; }
+
+.iconochive-right::before { content: "Ëƒ"; }
+
+.iconochive-left-solid::before { content: "â—‚"; }
+
+.iconochive-right-solid::before { content: "â–¸"; }
+
+.iconochive-up-solid::before { content: "â–´"; }
+
+.iconochive-down-solid::before { content: "â–¾"; }
+
+.iconochive-dot::before { content: "â¤"; }
+
+.iconochive-dots::before { content: "â–¦"; }
+
+.iconochive-columns::before { content: "â–¯"; }
+
+.iconochive-sort::before { content: "â‡•"; }
+
+.iconochive-atoz::before { content: "ðŸ”¤"; }
+
+.iconochive-ztoa::before { content: "ðŸ”¥"; }
+
+.iconochive-upload::before { content: "ðŸ“¤"; }
+
+.iconochive-download::before { content: "ðŸ“¥"; }
+
+.iconochive-favorite::before { content: "â˜…"; }
+
+.iconochive-heart::before { content: "â™¥"; }
+
+.iconochive-play::before { content: "â–¶"; }
+
+.iconochive-play-framed::before { content: "ðŸŽ¬"; }
+
+.iconochive-fullscreen::before { content: "â›¶"; }
+
+.iconochive-mute::before { content: "ðŸ”‡"; }
+
+.iconochive-unmute::before { content: "ðŸ”Š"; }
+
+.iconochive-share::before { content: "ðŸŽ"; }
+
+.iconochive-edit::before { content: "âœŽ"; }
+
+.iconochive-reedit::before { content: "âœ"; }
+
+.iconochive-gear::before { content: "âš™"; }
+
+.iconochive-remove-circle::before { content: "âŽ"; }
+
+.iconochive-plus-circle::before { content: "ðŸ—–"; }
+
+.iconochive-minus-circle::before { content: "ðŸ—•"; }
+
+.iconochive-x::before { content: "ðŸ—™"; }
+
+.iconochive-fork::before { content: "â‹”"; }
+
+.iconochive-trash::before { content: "ðŸ—‘"; }
+
+.iconochive-warning::before { content: "âš "; }
+
+.iconochive-flash::before { content: "ðŸ—²"; }
+
+.iconochive-world::before { content: "ðŸ—º"; }
+
+.iconochive-lock::before { content: "ðŸ”’"; }
+
+.iconochive-unlock::before { content: "ðŸ”“"; }
+
+.iconochive-twitter::before { content: "ðŸ¦"; }
+
+.iconochive-facebook::before { content: "f"; }
+
+.iconochive-googleplus::before { content: "g"; }
+
+.iconochive-reddit::before { content: "ðŸ‘½"; }
+
+.iconochive-tumblr::before { content: "T"; }
+
+.iconochive-pinterest::before { content: "ð“Ÿ"; }
+
+.iconochive-popcorn::before { content: "ðŸ’¥"; }
+
+.iconochive-email::before { content: "ðŸ“§"; }
+
+.iconochive-embed::before { content: "ðŸ”—"; }
+
+.iconochive-gamepad::before { content: "ðŸ•¹"; }
+
+.iconochive-Zoom_In::before { content: "+"; }
+
+.iconochive-Zoom_Out::before { content: "-"; }
+
+.iconochive-RSS::before { content: "ðŸ“¨"; }
+
+.iconochive-Light_Bulb::before { content: "ðŸ’¡"; }
+
+.iconochive-Add::before { content: "âŠ•"; }
+
+.iconochive-Tab_Activity::before { content: "âŒ˜"; }
+
+.iconochive-Forward::before { content: "â©"; }
+
+.iconochive-Backward::before { content: "âª"; }
+
+.iconochive-No_Audio::before { content: "ðŸ”ˆ"; }
+
+.iconochive-Pause::before { content: "â¸"; }
+
+.iconochive-No_Favorite::before { content: "â˜†"; }
+
+.iconochive-Unike::before { content: "â™¡"; }
+
+.iconochive-Song::before { content: "â™«"; }
+
+.iconochive-No_Flag::before { content: "âš"; }
+
+.iconochive-Flag::before { content: "âš‘"; }
+
+.iconochive-Done::before { content: "âœ“"; }
+
+.iconochive-Check::before { content: "âœ”"; }
+
+.iconochive-Refresh::before { content: "âŸ³"; }
+
+.iconochive-Headphones::before { content: "ðŸŽ§"; }
+
+.iconochive-Chart::before { content: "ðŸ“ˆ"; }
+
+.iconochive-Bookmark::before { content: "ðŸ“‘"; }
+
+.iconochive-Documents::before { content: "ðŸ“š"; }
+
+.iconochive-Newspaper::before { content: "ðŸ“°"; }
+
+.iconochive-Podcast::before { content: "ðŸ“¶"; }
+
+.iconochive-Radio::before { content: "ðŸ“»"; }
+
+.iconochive-Cassette::before { content: "ðŸ“¼"; }
+
+.iconochive-Shuffle::before { content: "ðŸ”€"; }
+
+.iconochive-Loop::before { content: "ðŸ”"; }
+
+.iconochive-Low_Audio::before { content: "ðŸ”‰"; }
+
+.iconochive-First::before { content: "ðŸŽ–"; }
+
+.iconochive-Invisible::before { content: "ðŸ•¶"; }
+
+.iconochive-Computer::before { content: "ðŸ–³"; }
+------MultipartBoundary--mxcIVRdAcPFtyUVAShm8t1JDe4xn0V83cRtKWixu1D----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://web-static.archive.org/_static/images/web-screenshot.svg
+
+<svg height="20" viewBox="0 0 24 20" width="24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="m0 0h24v20h-24z" fill="#fff"/><path d="m18.5721525 15.8731314h-2.213751v-2.1610043h2.213751zm-3.2647703 0h-2.2149026v-2.1610043h2.2149026zm3.1265692-11.56996429v5.82540599 1.5252793h-16.86629045v-1.5252793-5.82540599zm-6.4790971 11.56996429h-10.35448576v-2.1160889h10.35448576zm-11.9548543-13.0731314v6.74421283 7.72244617h20v-7.72244617-6.74421283z" fill="#333" fill-rule="nonzero" transform="matrix(1 0 0 -1 0 18.067)"/><rect fill="#333" height="10" rx="1" stroke="#333" width="14.906" x="8" y="9"/><circle cx="15.453" cy="14" fill="#fff" r="3.491"/><circle cx="15.453" cy="14" fill="#333" r="1.604"/></g></svg>
+------MultipartBoundary--mxcIVRdAcPFtyUVAShm8t1JDe4xn0V83cRtKWixu1D----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3
+
+@charset "utf-8";
+
+:root { --wm-toolbar-height: 65px; }
+
+#wm-ipp-base { height: 65px; padding: 0px; margin: 0px; border: none; background: none transparent; }
+
+#wm-ipp { z-index: 2147483647; }
+
+#wm-ipp, #wm-ipp * { font-family: "Lucida Grande", Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.2; letter-spacing: 0px; width: auto; height: auto; max-width: none; max-height: none; min-height: 0px; outline: none; float: none; text-align: left; border: none; color: rgb(0, 0, 0); text-indent: 0px; position: initial; background: none; min-width: 0px !important; }
+
+#wm-ipp div, #wm-ipp canvas { display: block; }
+
+#wm-ipp div, #wm-ipp tr, #wm-ipp td, #wm-ipp a, #wm-ipp form { padding: 0px; margin: 0px; border: none; border-radius: 0px; background-color: transparent; background-image: none; height: auto; }
+
+#wm-ipp table { border: none; border-collapse: collapse; margin: 0px; padding: 0px; width: auto; font-size: inherit; }
+
+#wm-ipp form input { height: auto; display: inline; margin: 0px; color: rgb(0, 0, 0); background: none rgb(255, 255, 255); border: 1px solid rgb(102, 102, 102); padding: 1px !important; }
+
+#wm-ipp form input[type="submit"] { padding: 0px 8px !important; margin: 1px 0px 1px 5px !important; width: auto !important; border: 1px solid rgb(0, 0, 0) !important; background: rgb(255, 255, 255) !important; color: rgb(0, 0, 0) !important; }
+
+#wm-ipp form input[type="submit"]:hover { background: rgb(238, 238, 238) !important; cursor: pointer !important; }
+
+#wm-ipp form input[type="submit"]:active { transform: translateY(1px); }
+
+#wm-ipp a { display: inline; }
+
+#wm-ipp a:hover { text-decoration: underline; }
+
+#wm-ipp a.wm-btn:hover { text-decoration: none; color: rgb(255, 255, 0) !important; }
+
+#wm-ipp a.wm-btn:hover span { color: rgb(255, 255, 0) !important; }
+
+#wm-ipp #wm-ipp-inside { margin: 0px 6px; border-right: 5px solid rgb(0, 0, 0); border-bottom: 5px solid rgb(0, 0, 0); border-left: 5px solid rgb(0, 0, 0); border-image: initial; border-top: none; background-color: rgba(255, 255, 255, 0.9); box-shadow: rgb(51, 51, 51) 1px 1px 4px; border-radius: 0px 0px 8px 8px; }
+
+#wm-ipp #wm-logo { padding: 0px 10px; vertical-align: middle; min-width: 100px; flex: 0 0 100px; }
+
+#wm-ipp .c { padding-left: 4px; }
+
+#wm-ipp .c .u { margin-top: 4px !important; }
+
+#wm-ipp .n { vertical-align: bottom; padding: 0px 0px 0px 5px !important; }
+
+#wm-ipp .n a { text-decoration: none; color: rgb(51, 51, 255); font-weight: bold; }
+
+#wm-ipp .n .b { overflow: visible; white-space: nowrap; color: rgb(153, 153, 170); vertical-align: middle; padding: 0px 6px 0px 0px !important; text-align: right !important; }
+
+#wm-ipp .n .y .b { padding: 0px 6px 2px 0px !important; }
+
+#wm-ipp .n .c { background: rgb(0, 0, 0); color: rgb(255, 255, 0); font-weight: bold; text-align: center; padding: 0px !important; }
+
+#wm-ipp .n .d span.ta { display: inline-block; width: 0px; height: 0px; border-color: transparent rgb(153, 153, 170); border-style: solid; }
+
+#wm-ipp .n .d .b span.ta { border-width: 8px 14px 8px 0px; }
+
+#wm-ipp .n .d .f span.ta { border-width: 8px 0px 8px 14px; }
+
+#wm-ipp .n .d a span.ta { border-color: transparent rgb(51, 51, 255); }
+
+#wm-ipp .n .d a span.ta:hover { border-color: transparent rgb(119, 119, 255); }
+
+#wm-ipp.hi .n td.c { color: rgb(236, 0, 140); }
+
+#wm-ipp .n td.f { overflow: visible; white-space: nowrap; color: rgb(153, 153, 170); vertical-align: middle; padding: 0px 0px 0px 6px !important; text-align: left !important; }
+
+#wm-ipp .n tr.m td { text-transform: uppercase; white-space: nowrap; padding: 2px 0px; }
+
+#wm-ipp .c .s { vertical-align: bottom; padding: 0px 5px 0px 0px !important; }
+
+#wm-ipp #wm-nav-captures { white-space: nowrap; }
+
+#wm-ipp .c .s a.t { color: rgb(51, 51, 255); font-weight: bold; line-height: 1.8; }
+
+#wm-ipp .c .s div.r { color: rgb(102, 102, 102); font-size: 9px; white-space: nowrap; }
+
+#wm-ipp .c .k { padding-bottom: 1px; }
+
+#wm-ipp .c .s { padding: 0px 5px 2px 0px !important; }
+
+#wm-ipp td#displayMonthEl { padding: 2px 0px !important; }
+
+#wm-ipp td#displayYearEl { padding: 0px 0px 2px !important; }
+
+div#wm-ipp-sparkline { position: relative; white-space: nowrap; background-color: rgb(255, 255, 255); cursor: pointer; line-height: 0.9; }
+
+#sparklineImgId, #wm-sparkline-canvas { position: relative; z-index: 9012; max-width: none; }
+
+#wm-ipp-sparkline div.yt { position: absolute; top: 0px; z-index: 9010 !important; background-color: rgb(255, 255, 0) !important; }
+
+#wm-ipp-sparkline div.mt { position: absolute; top: 0px; z-index: 9013 !important; background-color: rgb(236, 0, 140) !important; }
+
+#wm-ipp .r { margin-left: 4px; }
+
+#wm-ipp .r a { color: rgb(51, 51, 255); border: none; position: relative; background-color: transparent; text-decoration: none; background-repeat: no-repeat !important; background-position: 100% 100% !important; }
+
+#wm-ipp #wm-capinfo { border-radius: 0px 0px 4px 4px; }
+
+#wm-ipp #wm-capinfo .c-logo { display: block; float: left; margin-right: 3px; width: 90px; min-height: 90px; max-height: 290px; border-radius: 45px; overflow: hidden; background-position: 50% center; background-size: auto 90px; box-shadow: rgb(208, 208, 208) 0px 0px 2px 2px inset; }
+
+#wm-ipp #wm-capinfo .c-logo span { display: inline-block; }
+
+#wm-ipp #wm-capinfo .c-logo img { height: 90px; position: relative; left: -50%; }
+
+#wm-ipp #wm-capinfo .wm-title { font-size: 130%; }
+
+#wm-ipp #wm-capinfo a.wm-selector { display: inline-block; color: rgb(170, 170, 170); padding: 2px 8px; text-decoration: none !important; }
+
+#wm-ipp #wm-capinfo a.wm-selector.selected { background-color: rgb(102, 102, 102); }
+
+#wm-ipp #wm-capinfo a.wm-selector:hover { color: rgb(255, 255, 255); }
+
+#wm-ipp #wm-capinfo.notice-only #wm-capinfo-collected-by, #wm-ipp #wm-capinfo.notice-only #wm-capinfo-timestamps { display: none; }
+
+#wm-ipp #wm-capinfo #wm-capinfo-notice .wm-capinfo-content { background-color: rgb(255, 255, 0); padding: 5px; font-size: 14px; text-align: center; }
+
+#wm-ipp #wm-capinfo #wm-capinfo-notice .wm-capinfo-content * { font-size: 14px; text-align: center; }
+
+#wm-ipp #wm-expand { right: 1px; bottom: -1px; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102) !important; padding: 0px 5px 0px 3px !important; border-radius: 3px 3px 0px 0px !important; }
+
+#wm-ipp #wm-expand span { color: rgb(255, 255, 255); }
+
+#wm-ipp #wm-expand #wm-expand-icon { display: inline-block; transition: transform 0.5s; transform-origin: 50% 45%; }
+
+#wm-ipp #wm-expand.wm-open #wm-expand-icon { transform: rotate(180deg); }
+
+#wm-ipp #wmtb { text-align: right; }
+
+#wm-ipp #wmtb #wmtbURL { width: calc(100% - 45px); }
+
+#wm-ipp #wm-graph-anchor { border-right: 1px solid rgb(204, 204, 204); }
+
+html.wb-highlight { box-shadow: rgb(165, 14, 58) 0px 0px 0px 3px inset !important; }
+
+.wb-highlight { outline: rgb(165, 14, 58) solid 3px !important; }
+
+#wm-ipp-print { display: none !important; }
+
+@media print {
+  #wm-ipp-base { display: none !important; }
+  #wm-ipp-print { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block !important; }
+}
+
+@media (max-width: 414px) {
+  #wm-ipp .xxs { display: none !important; }
+}
+
+@media (min-width: 1055px) {
+  #wm-ipp #wm-graph-anchor { display: block !important; }
+}
+
+@media (max-width: 1054px) {
+  #wm-ipp #wm-graph-anchor { display: none !important; }
+}
+
+@media (max-width: 1163px) {
+  #wm-logo { display: none !important; }
+}
+
+#wm-btns { white-space: nowrap; margin-top: -2px; }
+
+#wm-btns #wm-save-snapshot-open { margin-right: 7px; top: -6px; }
+
+#wm-btns #wm-sign-in { box-sizing: content-box; display: none; margin-right: 7px; top: -8px; border: 2px solid rgb(0, 0, 0); border-radius: 14px; padding-right: 2px; padding-bottom: 2px; width: 11px; height: 11px; }
+
+#wm-btns #wm-sign-in > .iconochive-person { font-size: 12.5px; }
+
+#wm-save-snapshot-open > .iconochive-web { color: rgb(0, 0, 0); font-size: 160%; }
+
+#wm-ipp #wm-share { display: flex; align-items: flex-end; justify-content: space-between; }
+
+#wm-share > #wm-screenshot { display: inline-block; margin-right: 3px; visibility: hidden; }
+
+#wm-screenshot > .iconochive-image { color: rgb(0, 0, 0); font-size: 160%; }
+
+#wm-share > #wm-video { display: inline-block; margin-right: 3px; visibility: hidden; }
+
+#wm-video > .iconochive-movies { color: rgb(0, 0, 0); display: inline-block; font-size: 150%; margin-bottom: 2px; }
+
+#wm-btns #wm-save-snapshot-in-progress { display: none; font-size: 160%; opacity: 0.5; position: relative; margin-right: 7px; top: -5px; }
+
+#wm-btns #wm-save-snapshot-success { display: none; color: green; position: relative; top: -7px; }
+
+#wm-btns #wm-save-snapshot-fail { display: none; color: red; position: relative; top: -7px; }
+
+.wm-icon-screen-shot { display: inline-block; background: url("../images/web-screenshot.svg") 0% 0% / contain no-repeat !important; width: 22px !important; height: 19px !important; }
+
+#donato { height: 0px; margin: 0px; padding: 0px; border-bottom: 1px solid rgb(153, 153, 153) !important; }
+
+body.wm-modal { height: auto !important; overflow: hidden !important; }
+
+#donato #donato-base { width: 100%; height: 100%; margin: 0px; padding: 0px; position: absolute; z-index: 2147483639; }
+
+body.wm-modal #donato #donato-base { position: fixed; inset: 0px; z-index: 2147483640; }
+
+.wb-autocomplete-suggestions { font-family: "Lucida Grande", Helvetica, Arial, sans-serif; font-size: 12px; text-align: left; cursor: default; border-width: 0px 1px 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-right-color: rgb(204, 204, 204); border-bottom-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; border-top-style: initial; border-top-color: initial; background: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.1) -1px 1px 3px; position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden auto; box-sizing: border-box; }
+
+.wb-autocomplete-suggestion { position: relative; padding: 0px 0.6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: rgb(51, 51, 51); }
+
+.wb-autocomplete-suggestion b { font-weight: bold; }
+
+.wb-autocomplete-suggestion.selected { background: rgb(240, 240, 240); }
+------MultipartBoundary--mxcIVRdAcPFtyUVAShm8t1JDe4xn0V83cRtKWixu1D----
+Content-Type: text/html
+Content-ID: <frame-74E5EF5A7203A87EA43D5253CFC3C050@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20120930012238/http%3A//jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body></body></html>
+------MultipartBoundary--mxcIVRdAcPFtyUVAShm8t1JDe4xn0V83cRtKWixu1D----
+Content-Type: text/html
+Content-ID: <frame-7C99ECFB2154455EF23C3A75E465AD11@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://web.archive.org/web/20120930012238if_/http://jsak.roblox.com/fd0c54dd6012d7eed77c19b5995c4206.js
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">var _____WB$wombat$assign$function_____=function(name){return (globalThis._wb_wombat &amp;&amp; globalThis._wb_wombat.local_init &amp;&amp; globalThis._wb_wombat.local_init(name))||globalThis[name];};if(!globalThis.__WB_pmw){globalThis.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
+let window = _____WB$wombat$assign$function_____("window");
+let self = _____WB$wombat$assign$function_____("self");
+let document = _____WB$wombat$assign$function_____("document");
+let location = _____WB$wombat$assign$function_____("location");
+let top = _____WB$wombat$assign$function_____("top");
+let parent = _____WB$wombat$assign$function_____("parent");
+let frames = _____WB$wombat$assign$function_____("frames");
+let opener = _____WB$wombat$assign$function_____("opener");
+;// bundle: page___d7513fd15868ce7fb8f36c1c3dae207c_m
+;// files: groups.js, jquery.simplemodal-1.3.5.js, GenericModal.js
+
+;// groups.js
+function addEllipses(){var n=$($(".Avatar a")[0]).width()-5;$(".Name").find("a").each(function(){$(this).text(htmlDecode(fitStringToWidthSafe($(this).text(),n)))})}function htmlDecode(n){return $("&lt;div/&gt;").html(n).text()}function updateRolesetCount(){$(".Members_DropDown select option:selected").html($(".Members_DropDown select option:selected").html()+" ("+$(".Members_DropDown .RolesetCountHidden").val()+")"),$.browser.msie&amp;&amp;$(".MembersDropDownList").width()&gt;485&amp;&amp;$(".MembersDropDownList").css("width","485px")}var currentPeopleTab;$(function(){var t,n;$(".GroupListContainer").hasClass("GroupsPage")||$("#GroupThumbnails").click(function(n){var t;t=$(n.target).hasClass("GroupListItemContainer")?$(n.target):$(n.target).parentsUntil("#GroupThumbnails",".GroupListItemContainer")[0],$(t).hasClass("GroupListItemContainer")&amp;&amp;(window.location=$(t).find("a")[0].href)}),window.location.href.indexOf("/My/")&gt;-1&amp;&amp;(t=$("#GroupDesc_Full"),t.length&gt;0&amp;&amp;(n=t.val(),n.length&gt;150&amp;&amp;(n=n.substring(0,147)+"... &lt;a onclick=\"toggleDesc('more');\"&gt;More&lt;/a&gt;"),$("#GroupDescP").html("&lt;pre&gt;"+n+"&lt;/pre&gt;"))),$("#GroupsPeople_Places").click(togglePeopleTab),$("#GroupsPeople_Members").click(togglePeopleTab),$("#GroupsPeoplePane_Allies").children(".grouprelationshipscontainer").length&gt;0?$("#GroupsPeople_Allies").click(togglePeopleTab):$("#GroupsPeople_Allies").hide(),$("#GroupsPeoplePane_Enemies").children(".grouprelationshipscontainer").length&gt;0?$("#GroupsPeople_Enemies").click(togglePeopleTab):$("#GroupsPeople_Enemies").hide(),currentPeopleTab=$("#GroupsPeople_Places").length&gt;0?"Places":"Members",addEllipses(),updateRolesetCount(),$("#GroupThumbnails").find(".GroupListName").each(function(){$(this).text(htmlDecode(fitStringToWidthSafe($(this).text(),$(this).width())))})});var toggleDesc=function(n){n=="more"?$("#GroupDescP").html("&lt;pre&gt;"+$("#GroupDesc_Full").val()+"   &lt;a onclick=\"toggleDesc('less');\"&gt;Less&lt;/a&gt;&lt;/pre&gt;"):n=="less"&amp;&amp;$("#GroupDescP").html("&lt;pre&gt;"+$("#GroupDesc_Full").val().substring(0,147)+"... &lt;a onclick=\"toggleDesc('more');\"&gt;More&lt;/a&gt;&lt;/pre&gt;")},togglePeopleTab=function(n){var i=$(n.target),t;i.parentsUntil("#GroupsPeopleContainer",".StandardTabGrayActive").length&gt;0||(t=i.parentsUntil("#GroupsPeopleContainer",".StandardTabGray").attr("id").replace("GroupsPeople_",""),$("#GroupsPeople_"+currentPeopleTab).removeClass("StandardTabGrayActive").addClass("StandardTabGray"),$("#GroupsPeoplePane_"+currentPeopleTab).hide(),$("#GroupsPeople_"+t).removeClass("StandardTabGray").addClass("StandardTabGrayActive"),$("#GroupsPeoplePane_"+t).show(),currentPeopleTab=t,$.browser.msie&amp;&amp;$(".MembersDropDownList").width()&gt;485&amp;&amp;$(".MembersDropDownList").css("width","485px"))},loading=function(n){n=="members"?($('&lt;div class="loading"&gt;&lt;/div&gt;').insertBefore($($(".GroupMember")[0])),$(".MembersUpdatePanel").find(".GroupMember").remove()):n=="wall"&amp;&amp;$('&lt;div class="loading"&gt;&lt;div class="content"&gt;&lt;/div&gt;&lt;div class="background"&gt;&lt;/div&gt;&lt;/div&gt;').insertBefore($(".GroupWallPane .FooterPager")),window.setTimeout(function(){$(".loading").length&gt;0&amp;&amp;$(".loading").css("display","block")},500)},handlePagerClick=function(n,t){var i=n.target;i==undefined&amp;&amp;(i=n.srcElement),i.tagName=="A"&amp;&amp;$(i).hasClass("pagerbtns")&amp;&amp;loading(t)};
+
+;// jquery.simplemodal-1.3.5.js
+(function(n){var i=n.browser.msie&amp;&amp;parseInt(n.browser.version)==6&amp;&amp;typeof window.XMLHttpRequest!="object",r=!1,t=[];n.modal=function(t,i){return n.modal.impl.init(t,i)},n.modal.close=function(){n.modal.impl.close()},n.fn.modal=function(t){return n.modal.impl.init(this,t)},n.modal.defaults={appendTo:"body",focus:!0,opacity:50,overlayId:"simplemodal-overlay",overlayCss:{},containerId:"simplemodal-container",containerCss:{},dataId:"simplemodal-data",dataCss:{},minHeight:null,minWidth:null,maxHeight:null,maxWidth:null,autoResize:!1,autoPosition:!0,zIndex:1e4,close:!0,closeHTML:'&lt;a class="modalCloseImg" title="Close"&gt;&lt;/a&gt;',closeClass:"simplemodal-close",escClose:!0,overlayClose:!1,position:null,persist:!1,modal:!0,onOpen:null,onShow:null,onClose:null},n.modal.impl={o:null,d:{},init:function(t,i){var r=this;if(r.d.data)return!1;if(r.o=n.extend({},n.modal.defaults,i),r.zIndex=r.o.zIndex,r.occb=!1,typeof t=="object")t=t instanceof jQuery?t:n(t),r.d.placeholder=!1,t.parent().parent().size()&gt;0&amp;&amp;(t.before(n("&lt;span&gt;&lt;/span&gt;").attr("id","simplemodal-placeholder").css({display:"none"})),r.d.placeholder=!0,r.display=t.css("display"),r.o.persist||(r.d.orig=t.clone(!0)));else if(typeof t=="string"||typeof t=="number")t=n("&lt;div&gt;&lt;/div&gt;").html(t);else return alert("SimpleModal Error: Unsupported data type: "+typeof t),r;return r.create(t),t=null,r.open(),n.isFunction(r.o.onShow)&amp;&amp;r.o.onShow.apply(r,[r.d]),r},create:function(r){var u=this;t=u.getDimensions(),u.o.modal&amp;&amp;i&amp;&amp;(u.d.iframe=n('&lt;iframe src="javascript:false;"&gt;&lt;/iframe&gt;').css(n.extend(u.o.iframeCss,{display:"none",opacity:0,position:"fixed",height:t[0],width:t[1],zIndex:u.o.zIndex,top:0,left:0})).appendTo(u.o.appendTo)),u.d.overlay=n("&lt;div&gt;&lt;/div&gt;").attr("id",u.o.overlayId).addClass("simplemodal-overlay").css(n.extend(u.o.overlayCss,{display:"none",opacity:u.o.opacity/100,height:u.o.modal?t[0]:0,width:u.o.modal?t[1]:0,position:"fixed",left:0,top:0,zIndex:u.o.zIndex+1})).appendTo(u.o.appendTo),u.d.container=n("&lt;div&gt;&lt;/div&gt;").attr("id",u.o.containerId).addClass("simplemodal-container").css(n.extend(u.o.containerCss,{display:"none",position:"fixed",zIndex:u.o.zIndex+2})).append(u.o.close&amp;&amp;u.o.closeHTML?n(u.o.closeHTML).addClass(u.o.closeClass):"").appendTo(u.o.appendTo),u.d.wrap=n("&lt;div&gt;&lt;/div&gt;").attr("tabIndex",-1).addClass("simplemodal-wrap").css({height:"100%",outline:0,width:"100%",overflow:"visible"}).appendTo(u.d.container),u.d.data=r.attr("id",r.attr("id")||u.o.dataId).addClass("simplemodal-data").css(n.extend(u.o.dataCss,{display:"none"})).appendTo("body"),r=null,u.setContainerDimensions(),u.d.data.appendTo(u.d.wrap),i&amp;&amp;u.fixIE()},bindEvents:function(){var r=this;n("."+r.o.closeClass).bind("click.simplemodal",function(n){n.preventDefault(),r.close()}),r.o.modal&amp;&amp;r.o.close&amp;&amp;r.o.overlayClose&amp;&amp;r.d.overlay.bind("click.simplemodal",function(n){n.preventDefault(),r.close()}),n(document).bind("keydown.simplemodal",function(n){r.o.modal&amp;&amp;r.o.focus&amp;&amp;n.keyCode==9?r.watchTab(n):r.o.close&amp;&amp;r.o.escClose&amp;&amp;n.keyCode==27&amp;&amp;(n.preventDefault(),r.close())}),n(window).bind("resize.simplemodal",function(){t=r.getDimensions(),r.setContainerDimensions(!0),i?r.fixIE():r.o.modal&amp;&amp;(r.d.iframe&amp;&amp;r.d.iframe.css({height:t[0],width:t[1]}),r.d.overlay.css({height:t[0],width:t[1]}))})},unbindEvents:function(){n("."+this.o.closeClass).unbind("click.simplemodal"),n(document).unbind("keydown.simplemodal"),n(window).unbind("resize.simplemodal"),this.d.overlay.unbind("click.simplemodal")},fixIE:function(){var i=this,t=i.o.position;n.each([i.d.iframe||null,i.o.modal?i.d.overlay:null,i.d.container],function(n,i){var l,c,o,e;if(i){var s="document.body.clientHeight",h="document.body.clientWidth",b="document.body.scrollHeight",a="document.body.scrollLeft",v="document.body.scrollTop",p="document.body.scrollWidth",y="document.documentElement.clientHeight",w="document.documentElement.clientWidth",u="document.documentElement.scrollLeft",f="document.documentElement.scrollTop",r=i[0].style;r.position="absolute",n&lt;2?(r.removeExpression("height"),r.removeExpression("width"),r.setExpression("height",""+b+" &gt; "+s+" ? "+b+" : "+s+' + "px"'),r.setExpression("width",""+p+" &gt; "+h+" ? "+p+" : "+h+' + "px"')):(t&amp;&amp;t.constructor==Array?(o=t[0]?typeof t[0]=="number"?t[0].toString():t[0].replace(/px/,""):i.css("top").replace(/px/,""),l=o.indexOf("%")==-1?o+" + (t = "+f+" ? "+f+" : "+v+') + "px"':parseInt(o.replace(/%/,""))+" * (("+y+" || "+s+") / 100) + (t = "+f+" ? "+f+" : "+v+') + "px"',t[1]&amp;&amp;(e=typeof t[1]=="number"?t[1].toString():t[1].replace(/px/,""),c=e.indexOf("%")==-1?e+" + (t = "+u+" ? "+u+" : "+a+') + "px"':parseInt(e.replace(/%/,""))+" * (("+w+" || "+h+") / 100) + (t = "+u+" ? "+u+" : "+a+') + "px"')):(l="("+y+" || "+s+") / 2 - (this.offsetHeight / 2) + (t = "+f+" ? "+f+" : "+v+') + "px"',c="("+w+" || "+h+") / 2 - (this.offsetWidth / 2) + (t = "+u+" ? "+u+" : "+a+') + "px"'),r.removeExpression("top"),r.removeExpression("left"),r.setExpression("top",l),r.setExpression("left",c))}})},focus:function(t){var r=this,u=t||"first",i=n(":input:enabled:visible:"+u,r.d.wrap);i.length&gt;0?i.focus():r.d.wrap.focus()},getDimensions:function(){var t=n(window),i=n.browser.opera&amp;&amp;n.browser.version&gt;"9.5"&amp;&amp;n.fn.jquery&lt;="1.2.6"?document.documentElement.clientHeight:n.browser.opera&amp;&amp;n.browser.version&lt;"9.5"&amp;&amp;n.fn.jquery&gt;"1.2.6"?window.innerHeight:t.height();return[i,t.width()]},getVal:function(n){return n=="auto"?0:n.indexOf("%")&gt;0?n:parseInt(n.replace(/px/,""))},setContainerDimensions:function(i){var r=this;if(!i||i&amp;&amp;r.o.autoResize){var f=n.browser.opera?r.d.container.height():r.getVal(r.d.container.css("height")),u=n.browser.opera?r.d.container.width():r.getVal(r.d.container.css("width")),s=r.d.data.outerHeight(!0),h=r.d.data.outerWidth(!0),e=r.o.maxHeight&amp;&amp;r.o.maxHeight&lt;t[0]?r.o.maxHeight:t[0],o=r.o.maxWidth&amp;&amp;r.o.maxWidth&lt;t[1]?r.o.maxWidth:t[1];f=f?f&gt;e?e:f:s?s&gt;e?e:s&lt;r.o.minHeight?r.o.minHeight:s:r.o.minHeight,u=u?u&gt;o?o:u:h?h&gt;o?o:h&lt;r.o.minWidth?r.o.minWidth:h:r.o.minWidth,r.d.container.css({height:f,width:u})}r.o.autoPosition&amp;&amp;r.setPosition()},setPosition:function(){var n=this,r,i,f=t[0]/2-n.d.container.outerHeight(!0)/2,u=t[1]/2-n.d.container.outerWidth(!0)/2;n.o.position&amp;&amp;Object.prototype.toString.call(n.o.position)==="[object Array]"?(r=n.o.position[0]||f,i=n.o.position[1]||u):(r=f,i=u),n.d.container.css({left:i,top:r})},watchTab:function(t){var i=this,r;n(t.target).parents(".simplemodal-container").length&gt;0?(i.inputs=n(":input:enabled:visible:first, :input:enabled:visible:last",i.d.data[0]),(!t.shiftKey&amp;&amp;t.target==i.inputs[i.inputs.length-1]||t.shiftKey&amp;&amp;t.target==i.inputs[0]||i.inputs.length==0)&amp;&amp;(t.preventDefault(),r=t.shiftKey?"last":"first",setTimeout(function(){i.focus(r)},10))):(t.preventDefault(),setTimeout(function(){i.focus()},10))},open:function(){var t=this;t.d.iframe&amp;&amp;t.d.iframe.show(),n.isFunction(t.o.onOpen)?t.o.onOpen.apply(t,[t.d]):(t.d.overlay.show(),t.d.container.show(),t.d.data.show()),t.focus(),t.bindEvents()},close:function(){var t=this,i;if(!t.d.data)return!1;t.unbindEvents(),n.isFunction(t.o.onClose)&amp;&amp;!t.occb?(t.occb=!0,t.o.onClose.apply(t,[t.d])):(t.d.placeholder?(i=n("#simplemodal-placeholder"),t.o.persist?i.replaceWith(t.d.data.removeClass("simplemodal-data").css("display",t.display)):(t.d.data.hide().remove(),i.replaceWith(t.d.orig))):t.d.data.hide().remove(),t.d.container.hide().remove(),t.d.overlay.hide().remove(),t.d.iframe&amp;&amp;t.d.iframe.hide().remove(),t.d={})}}})(jQuery);
+
+;// GenericModal.js
+typeof Roblox.GenericModal=="undefined"&amp;&amp;(Roblox.GenericModal=function(){function i(t,i,u,f,e){n=f;var o=$("div.GenericModal").filter(":first");o.find("div.Title").text(t),o.find("img.GenericModalImage").attr("src",i),o.find("div.Message").html(u),e&amp;&amp;(o.removeClass("smallModal"),o.addClass("largeModal")),o.modal(r)}function t(){$.modal.close(),typeof n=="function"&amp;&amp;n()}var r={overlayClose:!0,escClose:!0,opacity:80,overlayCss:{backgroundColor:"#000"}},n;return $(function(){$(".GenericModal .btn-ok").click(function(){t()})}),{open:i}}());
+
+}
+
+/*
+     FILE ARCHIVED ON 01:22:38 Sep 30, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:06:17 Aug 19, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.415
+  captures_list: 0.622
+  exclusion.robots: 0.076
+  exclusion.robots.policy: 0.065
+  esindex: 0.025
+  cdx.remote: 7.159
+  LoadShardBlock: 190.764 (3)
+  PetaboxLoader3.datanode: 169.872 (4)
+  PetaboxLoader3.resolve: 116.121 (3)
+  load_resource: 115.443
+*/</pre></body></html>
+------MultipartBoundary--mxcIVRdAcPFtyUVAShm8t1JDe4xn0V83cRtKWixu1D------
