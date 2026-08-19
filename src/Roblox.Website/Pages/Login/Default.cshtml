@@ -1,0 +1,24 @@
+@page "/Login/Default.aspx"
+@model Roblox.Website.Pages.Login.DefaultModel
+@{
+    ViewData["Title"] = "ROBLOX Login";
+}
+<div id="LoginContainer" class="LoginContainer">
+    <h1>Login</h1>
+    <form method="post">
+        <table>
+            <tr><td>Username:</td><td><input asp-for="Input.Username" autocomplete="username" /></td></tr>
+            <tr><td>Password:</td><td><input asp-for="Input.Password" type="password" autocomplete="current-password" /></td></tr>
+            <tr><td></td><td><a href="/Login/ResetPasswordRequest.aspx">Forgot your password?</a></td></tr>
+            <tr><td></td><td><button type="submit">Login</button></td></tr>
+        </table>
+        @if (!string.IsNullOrWhiteSpace(Model.ErrorMessage)) { <div class="error-message">@Model.ErrorMessage</div> }
+    </form>
+</div>
+<div id="CreateAccountContainer" class="CreateAccountContainer">
+    <h2>Create a Free ROBLOX Account</h2>
+    <p>Creating an account on ROBLOX allows you to customize your character, make friends, build places, earn money, and more!</p>
+    <p><a href="/Login/Signup.aspx">Sign Up</a></p>
+    <p>You don't need an account to play ROBLOX. You can start playing right now, in guest mode!</p>
+    <p><a href="/Games.aspx">Play as Guest</a></p>
+</div>
